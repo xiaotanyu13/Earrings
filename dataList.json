@@ -1,0 +1,3482 @@
+{
+    "success": true,
+    "errorCode": 1000000,
+    "errorMsg": null,
+    "result": {
+        "total": 15,
+        "productIdNoStatusTotal": 56,
+        "recycleCount": 1,
+        "dataList": [
+            {
+                "supplierId": 634418210372218,
+                "supplierName": "glistening star",
+                "productId": 485990373,
+                "goodsId": null,
+                "isDress": false,
+                "sampleNeeded": false,
+                "mustSkipSample": false,
+                "leafCategoryName": "其他（女士耳饰）",
+                "leafCategoryId": 29521,
+                "fullCategoryName": [
+                    "服装、鞋靴和珠宝饰品",
+                    "女士时尚",
+                    "女士饰品",
+                    "女士耳饰",
+                    "其他（女士耳饰）"
+                ],
+                "carouselImageUrlList": [
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688647216799-88796c017ab24ef4b99c3b3751b51c86-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688647218323-5923994238d9497a9a1c75943a3a232b-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688647219601-e487cf876dd64972ad011e47443aa81f-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688647221358-5c65bd0cf9684ae2aa8afe65b0e8161b-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688647222521-aba23cd8f2f14197b8389f3ba0c12e0b-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688647224020-5b824208a91b44f4b94ad030d3f404f9-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688647225378-c20c835821a64dc8ab86697876df4757-goods.jpeg"
+                ],
+                "skcList": [
+                    {
+                        "selectId": 2307070308622,
+                        "skcId": 1066223460,
+                        "selectStatus": 11,
+                        "goodsSkcStatus": null,
+                        "color": null,
+                        "colorName": null,
+                        "supplierPrice": "4.69元",
+                        "supplierPriceCurrencyType": "CNY",
+                        "exchangeSupplierPrice": null,
+                        "exchangeRate": null,
+                        "previewImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-07-06/1688647216799-88796c017ab24ef4b99c3b3751b51c86-goods.jpeg"
+                        ],
+                        "sampleType": 1,
+                        "sampleQcType": 1,
+                        "qcInfo": null,
+                        "statusTime": {
+                            "createdTime": 1688647232896,
+                            "selectedTime": 1688740833234,
+                            "samplePostTime": null,
+                            "qcCompletedTime": null,
+                            "priceVerificationTime": 1688893574388,
+                            "firstPurchaseTime": 1689215593214,
+                            "addedToSiteTime": null,
+                            "unPublishedTime": null,
+                            "samplePostingFinishedTime": null,
+                            "terminatedTime": null
+                        },
+                        "buyerUid": 3263440251,
+                        "buyerName": "muxinhe",
+                        "labelList": null,
+                        "supplierPriceReviewInfoList": [
+                            {
+                                "priceOrderId": 2307071315183,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 6355316028,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "55830"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.69元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "55830",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 13500,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688647228061-b25c50d09b634731a8e711417d9a880a-goods.jpeg"
+                                    },
+                                    {
+                                        "skuId": 4378711975,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5583025"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.69元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5583025",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 13500,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688647228296-3fc3d857307e498da3cd32f6659385a0-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            }
+                        ],
+                        "skuList": [
+                            {
+                                "skuId": 6355316028,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "55830"
+                                    }
+                                ],
+                                "supplierPrice": "4.69元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "55830",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 13500,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688647228061-b25c50d09b634731a8e711417d9a880a-goods.jpeg"
+                            },
+                            {
+                                "skuId": 4378711975,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5583025"
+                                    }
+                                ],
+                                "supplierPrice": "4.69元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5583025",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 13500,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688647228296-3fc3d857307e498da3cd32f6659385a0-goods.jpeg"
+                            }
+                        ],
+                        "buyerSelectedSkuList": [],
+                        "defaultSelectedSkuList": null,
+                        "productSellMode": 1,
+                        "firstPurchaseSubmitAt": null,
+                        "reSampleTimes": 0,
+                        "remarkList": [],
+                        "selectCanceledTimes": 0,
+                        "qcSampleAdjustment": null,
+                        "sampleQcOrderStatus": 0,
+                        "primarySecondarySkc": 0,
+                        "primaryMultiColor": 0,
+                        "productHotTag": 1,
+                        "productSearchTag": 0,
+                        "extCode": "",
+                        "latestPriceComparingStatus": null,
+                        "terminationReasonList": null,
+                        "pictureReviewAccepted": true,
+                        "customsAccepted": null,
+                        "punishInfo": null
+                    }
+                ],
+                "supplierPrice": "4.69元",
+                "supplierPriceCurrencyType": "CNY",
+                "exchangeSupplierPrice": null,
+                "exchangeRate": null,
+                "productName": "欧美外贸新款蝴蝶耳环不对称亚克力珍珠蝴蝶吊坠耳环套装组合ins",
+                "productPropertyList": [
+                    {
+                        "name": "镶嵌材质",
+                        "value": "人造水晶"
+                    },
+                    {
+                        "name": "主体材质",
+                        "value": "亚克力"
+                    },
+                    {
+                        "name": "风格",
+                        "value": "休闲"
+                    },
+                    {
+                        "name": "镀层",
+                        "value": "镀18K金"
+                    }
+                ],
+                "productCreatedAt": 1688647232000,
+                "productUpdatedAt": 1689711495000,
+                "advantageTagList": null,
+                "advantageTagInfoList": null,
+                "productSource": 1,
+                "isInAdvanceLabelWhiteList": null,
+                "pddGoodsInfo": null,
+                "buyerEditOpinionCount": null,
+                "remarkTypes": null,
+                "isCertsPassed": null,
+                "hasSkcSelected": null,
+                "customized": 0,
+                "customizedTemplateInfoVO": null,
+                "canChangeBuyer": null,
+                "changeBuyerTimes": null,
+                "biddingTypeList": null,
+                "biddingInvitationOrderId": null,
+                "categoryMissPlace": false,
+                "recommendCategory": [
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚耳钉",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚垂坠式耳环",
+                    "玩具与游戏>过家家>装扮与饰品>装扮珠宝首饰>耳环",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚环状耳环",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚球形耳环"
+                ],
+                "inSiteSimilarType": 1,
+                "activateAt": null,
+                "activateTime": 0,
+                "activateType": 0,
+                "activateReducePrice": null,
+                "hasActivateButton": null,
+                "activateButtonGray": null,
+                "nextActivateTime": null,
+                "preAutoSelect": null,
+                "inventoryRegion": null
+            },
+            {
+                "supplierId": 634418210372218,
+                "supplierName": "glistening star",
+                "productId": 930205450,
+                "goodsId": null,
+                "isDress": false,
+                "sampleNeeded": false,
+                "mustSkipSample": false,
+                "leafCategoryName": "女士时尚环状耳环",
+                "leafCategoryId": 29516,
+                "fullCategoryName": [
+                    "服装、鞋靴和珠宝饰品",
+                    "女士时尚",
+                    "女士饰品",
+                    "女士耳饰",
+                    "女士时尚环状耳环"
+                ],
+                "carouselImageUrlList": [
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688642690920-ec96ea11862b46c5bb49acab35719da3-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688642692147-5c656d1f30d142d2a34904b47ab79d3f-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688642693285-8207f063beca499da6519a88a1c991ee-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688642694824-91a6a0e9b62a46b8914d08110aa5d342-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688642695954-45cbce4b0e8948f5bdd1e19fac6ce4b6-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688642697454-abe6d02bebac4fd3a6791774bd0a33ef-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688642698769-a554f3e4da3e4445a1d8029669457f97-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-06/1688642701956-c0b37462e85d4ee68773adc22d0eb0e4-goods.jpeg"
+                ],
+                "skcList": [
+                    {
+                        "selectId": 2307070269355,
+                        "skcId": 9630493603,
+                        "selectStatus": 11,
+                        "goodsSkcStatus": null,
+                        "color": null,
+                        "colorName": null,
+                        "supplierPrice": "4.03~4.89元",
+                        "supplierPriceCurrencyType": "CNY",
+                        "exchangeSupplierPrice": null,
+                        "exchangeRate": null,
+                        "previewImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-07-06/1688642690920-ec96ea11862b46c5bb49acab35719da3-goods.jpeg"
+                        ],
+                        "sampleType": 1,
+                        "sampleQcType": 1,
+                        "qcInfo": null,
+                        "statusTime": {
+                            "createdTime": 1688642724371,
+                            "selectedTime": 1688736324806,
+                            "samplePostTime": null,
+                            "qcCompletedTime": null,
+                            "priceVerificationTime": 1689555216083,
+                            "firstPurchaseTime": 1689567528886,
+                            "addedToSiteTime": null,
+                            "unPublishedTime": null,
+                            "samplePostingFinishedTime": null,
+                            "terminatedTime": null
+                        },
+                        "buyerUid": 3263440251,
+                        "buyerName": "muxinhe",
+                        "labelList": null,
+                        "supplierPriceReviewInfoList": [
+                            {
+                                "priceOrderId": 2307071151392,
+                                "times": 3,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 9901751520,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "S-16203"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.80元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "",
+                                        "len": 80,
+                                        "width": 80,
+                                        "height": 10,
+                                        "weight": 23400,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642705987-96ab4e043d544f12a633aecffe62cd79-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2307071151407,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 2269617811,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "S-16202"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.82元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "",
+                                        "len": 80,
+                                        "width": 80,
+                                        "height": 10,
+                                        "weight": 23400,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642705400-a7d6573311604f79ae4d7aa86beca5ef-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2307071151408,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 4292788871,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "S-16204"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.03元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "",
+                                        "len": 80,
+                                        "width": 80,
+                                        "height": 10,
+                                        "weight": 23400,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642706239-44231876700a47dabc6bd1bb8565430a-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2307071151422,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 3876365456,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "S-16206"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.54元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "",
+                                        "len": 80,
+                                        "width": 80,
+                                        "height": 10,
+                                        "weight": 23400,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642707110-a5910fc3384f4c049aff5159c240c039-goods.jpeg"
+                                    },
+                                    {
+                                        "skuId": 5603121308,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "S-16207"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.54元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "",
+                                        "len": 80,
+                                        "width": 80,
+                                        "height": 10,
+                                        "weight": 23400,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642707629-8ff8919532d840e9b2d5934f94201715-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2307071151431,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 4388088534,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "S-16208"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.89元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "",
+                                        "len": 80,
+                                        "width": 80,
+                                        "height": 10,
+                                        "weight": 23400,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642708259-b104534d059d41a08ad72bec3f98df10-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2307071151439,
+                                "times": 2,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 5393764917,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "S-16205"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.30元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "",
+                                        "len": 80,
+                                        "width": 80,
+                                        "height": 10,
+                                        "weight": 23400,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642706612-2c2acb25f1ee4479aa7dbca23a72a706-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            }
+                        ],
+                        "skuList": [
+                            {
+                                "skuId": 2269617811,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "S-16202"
+                                    }
+                                ],
+                                "supplierPrice": "4.82元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "",
+                                "len": 80,
+                                "width": 80,
+                                "height": 10,
+                                "weight": 23400,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642705400-a7d6573311604f79ae4d7aa86beca5ef-goods.jpeg"
+                            },
+                            {
+                                "skuId": 9901751520,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "S-16203"
+                                    }
+                                ],
+                                "supplierPrice": "4.80元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "",
+                                "len": 80,
+                                "width": 80,
+                                "height": 10,
+                                "weight": 23400,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642705987-96ab4e043d544f12a633aecffe62cd79-goods.jpeg"
+                            },
+                            {
+                                "skuId": 4292788871,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "S-16204"
+                                    }
+                                ],
+                                "supplierPrice": "4.03元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "",
+                                "len": 80,
+                                "width": 80,
+                                "height": 10,
+                                "weight": 23400,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642706239-44231876700a47dabc6bd1bb8565430a-goods.jpeg"
+                            },
+                            {
+                                "skuId": 5393764917,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "S-16205"
+                                    }
+                                ],
+                                "supplierPrice": "4.30元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "",
+                                "len": 80,
+                                "width": 80,
+                                "height": 10,
+                                "weight": 23400,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642706612-2c2acb25f1ee4479aa7dbca23a72a706-goods.jpeg"
+                            },
+                            {
+                                "skuId": 3876365456,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "S-16206"
+                                    }
+                                ],
+                                "supplierPrice": "4.54元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "",
+                                "len": 80,
+                                "width": 80,
+                                "height": 10,
+                                "weight": 23400,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642707110-a5910fc3384f4c049aff5159c240c039-goods.jpeg"
+                            },
+                            {
+                                "skuId": 5603121308,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "S-16207"
+                                    }
+                                ],
+                                "supplierPrice": "4.54元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "",
+                                "len": 80,
+                                "width": 80,
+                                "height": 10,
+                                "weight": 23400,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642707629-8ff8919532d840e9b2d5934f94201715-goods.jpeg"
+                            },
+                            {
+                                "skuId": 4388088534,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "S-16208"
+                                    }
+                                ],
+                                "supplierPrice": "4.89元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "",
+                                "len": 80,
+                                "width": 80,
+                                "height": 10,
+                                "weight": 23400,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-06/1688642708259-b104534d059d41a08ad72bec3f98df10-goods.jpeg"
+                            }
+                        ],
+                        "buyerSelectedSkuList": [],
+                        "defaultSelectedSkuList": null,
+                        "productSellMode": 1,
+                        "firstPurchaseSubmitAt": null,
+                        "reSampleTimes": 0,
+                        "remarkList": [],
+                        "selectCanceledTimes": 0,
+                        "qcSampleAdjustment": null,
+                        "sampleQcOrderStatus": 0,
+                        "primarySecondarySkc": 0,
+                        "primaryMultiColor": 0,
+                        "productHotTag": 100,
+                        "productSearchTag": 0,
+                        "extCode": "",
+                        "latestPriceComparingStatus": null,
+                        "terminationReasonList": null,
+                        "pictureReviewAccepted": true,
+                        "customsAccepted": null,
+                        "punishInfo": null
+                    }
+                ],
+                "supplierPrice": "4.03~4.89元",
+                "supplierPriceCurrencyType": "CNY",
+                "exchangeSupplierPrice": null,
+                "exchangeRate": null,
+                "productName": "欧美金属圆圈链条耳钉套装6件套创意个性跨境爱心别针蝴蝶耳环女",
+                "productPropertyList": [
+                    {
+                        "name": "镶嵌材质",
+                        "value": "仿珍珠"
+                    },
+                    {
+                        "name": "主体材质",
+                        "value": "合金"
+                    },
+                    {
+                        "name": "风格",
+                        "value": "复古"
+                    },
+                    {
+                        "name": "镀层",
+                        "value": "镀18K金"
+                    }
+                ],
+                "productCreatedAt": 1688642723000,
+                "productUpdatedAt": 1689555216000,
+                "advantageTagList": null,
+                "advantageTagInfoList": null,
+                "productSource": 1,
+                "isInAdvanceLabelWhiteList": null,
+                "pddGoodsInfo": null,
+                "buyerEditOpinionCount": null,
+                "remarkTypes": null,
+                "isCertsPassed": null,
+                "hasSkcSelected": null,
+                "customized": 0,
+                "customizedTemplateInfoVO": null,
+                "canChangeBuyer": null,
+                "changeBuyerTimes": null,
+                "biddingTypeList": null,
+                "biddingInvitationOrderId": null,
+                "categoryMissPlace": false,
+                "recommendCategory": [
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚耳钉",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>其他（女士耳饰）"
+                ],
+                "inSiteSimilarType": 1,
+                "activateAt": null,
+                "activateTime": 0,
+                "activateType": 0,
+                "activateReducePrice": null,
+                "hasActivateButton": null,
+                "activateButtonGray": null,
+                "nextActivateTime": null,
+                "preAutoSelect": null,
+                "inventoryRegion": null
+            },
+            {
+                "supplierId": 634418210372218,
+                "supplierName": "glistening star",
+                "productId": 533087374,
+                "goodsId": null,
+                "isDress": false,
+                "sampleNeeded": false,
+                "mustSkipSample": false,
+                "leafCategoryName": "女士时尚环状耳环",
+                "leafCategoryId": 29516,
+                "fullCategoryName": [
+                    "服装、鞋靴和珠宝饰品",
+                    "女士时尚",
+                    "女士饰品",
+                    "女士耳饰",
+                    "女士时尚环状耳环"
+                ],
+                "carouselImageUrlList": [
+                    "https://kj-img.pddpic.com/product/open/2023-07-03/1688377658447-3a67355d21d54e0ab72ddd5a166b9fa7-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-03/1688377660678-34efa758c3054ae39eeabb86e02930b6-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-03/1688377662291-5f215d75cc7b4eea9eda1f81a7651c4d-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-03/1688377663928-8636115f71e547a9bcb1a27e6614ae5f-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-03/1688377666038-1bd09e6aa38640ab882d0d25e8fc31f7-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-03/1688377667338-c361302e277242b49553d42f1c32efac-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-03/1688377668850-df41beae781c44f886bf9f05b873d329-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-03/1688377671475-5be347f5de01498986d0d06dfcbf6d29-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-03/1688377673998-09fc94bc7eaa4534920f671819c3117b-goods.jpeg"
+                ],
+                "skcList": [
+                    {
+                        "selectId": 2307080036457,
+                        "skcId": 5997224372,
+                        "selectStatus": 11,
+                        "goodsSkcStatus": null,
+                        "color": null,
+                        "colorName": null,
+                        "supplierPrice": "3.68~4.88元",
+                        "supplierPriceCurrencyType": "CNY",
+                        "exchangeSupplierPrice": null,
+                        "exchangeRate": null,
+                        "previewImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-07-03/1688377658447-3a67355d21d54e0ab72ddd5a166b9fa7-goods.jpeg"
+                        ],
+                        "sampleType": 1,
+                        "sampleQcType": 1,
+                        "qcInfo": null,
+                        "statusTime": {
+                            "createdTime": 1688377686560,
+                            "selectedTime": 1688787541358,
+                            "samplePostTime": null,
+                            "qcCompletedTime": null,
+                            "priceVerificationTime": 1688893574748,
+                            "firstPurchaseTime": 1689250709354,
+                            "addedToSiteTime": null,
+                            "unPublishedTime": null,
+                            "samplePostingFinishedTime": null,
+                            "terminatedTime": null
+                        },
+                        "buyerUid": 3263440251,
+                        "buyerName": "muxinhe",
+                        "labelList": null,
+                        "supplierPriceReviewInfoList": [
+                            {
+                                "priceOrderId": 2307080044486,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 5561483756,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5171"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "人造珍珠"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.68元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5171",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 29500,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-03/1688377678881-6706502a314d4785a28f8a7d45abe2b8-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2307080044488,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 7124501189,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "54291"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "人造珍珠"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.88元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "54291",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 29500,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-03/1688377678468-a0b57bda6ce740b080dad3a25bc8d830-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2307080044497,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 1544494540,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "54680"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "人造珍珠"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.88元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "54680",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 29500,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-03/1688377679556-94ac5a9fa87343baadbe5749b981b595-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2307080044504,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 8768621004,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "54292"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "人造珍珠"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.78元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "54292",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 29500,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-03/1688377678094-8ebdd355619849328ed97b332c2216bf-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            }
+                        ],
+                        "skuList": [
+                            {
+                                "skuId": 5561483756,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5171"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "人造珍珠"
+                                    }
+                                ],
+                                "supplierPrice": "3.68元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5171",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 29500,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-03/1688377678881-6706502a314d4785a28f8a7d45abe2b8-goods.jpeg"
+                            },
+                            {
+                                "skuId": 7124501189,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "54291"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "人造珍珠"
+                                    }
+                                ],
+                                "supplierPrice": "3.88元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "54291",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 29500,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-03/1688377678468-a0b57bda6ce740b080dad3a25bc8d830-goods.jpeg"
+                            },
+                            {
+                                "skuId": 8768621004,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "54292"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "人造珍珠"
+                                    }
+                                ],
+                                "supplierPrice": "4.78元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "54292",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 29500,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-03/1688377678094-8ebdd355619849328ed97b332c2216bf-goods.jpeg"
+                            },
+                            {
+                                "skuId": 1544494540,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "54680"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "人造珍珠"
+                                    }
+                                ],
+                                "supplierPrice": "4.88元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "54680",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 29500,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-03/1688377679556-94ac5a9fa87343baadbe5749b981b595-goods.jpeg"
+                            }
+                        ],
+                        "buyerSelectedSkuList": [],
+                        "defaultSelectedSkuList": null,
+                        "productSellMode": 1,
+                        "firstPurchaseSubmitAt": null,
+                        "reSampleTimes": 0,
+                        "remarkList": [],
+                        "selectCanceledTimes": 0,
+                        "qcSampleAdjustment": null,
+                        "sampleQcOrderStatus": 0,
+                        "primarySecondarySkc": 0,
+                        "primaryMultiColor": 0,
+                        "productHotTag": 100,
+                        "productSearchTag": 0,
+                        "extCode": "",
+                        "latestPriceComparingStatus": null,
+                        "terminationReasonList": null,
+                        "pictureReviewAccepted": true,
+                        "customsAccepted": null,
+                        "punishInfo": null
+                    }
+                ],
+                "supplierPrice": "3.68~4.88元",
+                "supplierPriceCurrencyType": "CNY",
+                "exchangeSupplierPrice": null,
+                "exchangeRate": null,
+                "productName": "欧美跨境新款爱心耳环6件套创意珍珠镶钻金色圆圈耳环套装earring",
+                "productPropertyList": [
+                    {
+                        "name": "镶嵌材质",
+                        "value": "仿珍珠"
+                    },
+                    {
+                        "name": "主体材质",
+                        "value": "合金"
+                    },
+                    {
+                        "name": "风格",
+                        "value": "复古"
+                    },
+                    {
+                        "name": "镀层",
+                        "value": "镀18K金"
+                    }
+                ],
+                "productCreatedAt": 1688377686000,
+                "productUpdatedAt": 1689623505000,
+                "advantageTagList": null,
+                "advantageTagInfoList": null,
+                "productSource": 1,
+                "isInAdvanceLabelWhiteList": null,
+                "pddGoodsInfo": null,
+                "buyerEditOpinionCount": null,
+                "remarkTypes": null,
+                "isCertsPassed": null,
+                "hasSkcSelected": null,
+                "customized": 0,
+                "customizedTemplateInfoVO": null,
+                "canChangeBuyer": null,
+                "changeBuyerTimes": null,
+                "biddingTypeList": null,
+                "biddingInvitationOrderId": null,
+                "categoryMissPlace": false,
+                "recommendCategory": [
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚环状耳环"
+                ],
+                "inSiteSimilarType": 1,
+                "activateAt": null,
+                "activateTime": 0,
+                "activateType": 0,
+                "activateReducePrice": null,
+                "hasActivateButton": null,
+                "activateButtonGray": null,
+                "nextActivateTime": null,
+                "preAutoSelect": null,
+                "inventoryRegion": null
+            },
+            {
+                "supplierId": 634418210372218,
+                "supplierName": "glistening star",
+                "productId": 517307002,
+                "goodsId": null,
+                "isDress": false,
+                "sampleNeeded": false,
+                "mustSkipSample": false,
+                "leafCategoryName": "其他（女士耳饰）",
+                "leafCategoryId": 29521,
+                "fullCategoryName": [
+                    "服装、鞋靴和珠宝饰品",
+                    "女士时尚",
+                    "女士饰品",
+                    "女士耳饰",
+                    "其他（女士耳饰）"
+                ],
+                "carouselImageUrlList": [
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688307465055-e7a0c08e1341415b8c9e1f399a823e62-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688307466462-3349237d440a4622bd0eff28d1f76f69-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688307468526-526b2ad414a747b99ed6ea6142cd9cad-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688307471816-abd1a829e269458889d5957f1e1c5b72-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688307473108-868196cfdd7e4dff909f950dea49be32-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688307474272-499859f593b5427dba25ec352c6a7b96-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688307475758-78806eae31a14b9e804548a5601deb64-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688307477248-49ab25ebf47f47e2b26b56835de0dc40-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688307478603-aa7f934caaaa4996af8bb094a57c09e6-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688307481182-0240fc74960246fba887ab5c820f2e19-goods.jpeg"
+                ],
+                "skcList": [
+                    {
+                        "selectId": 2307140064838,
+                        "skcId": 2403184171,
+                        "selectStatus": 11,
+                        "goodsSkcStatus": null,
+                        "color": null,
+                        "colorName": null,
+                        "supplierPrice": "4.99~5.69元",
+                        "supplierPriceCurrencyType": "CNY",
+                        "exchangeSupplierPrice": null,
+                        "exchangeRate": null,
+                        "previewImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-07-02/1688307465055-e7a0c08e1341415b8c9e1f399a823e62-goods.jpeg"
+                        ],
+                        "sampleType": 1,
+                        "sampleQcType": 1,
+                        "qcInfo": null,
+                        "statusTime": {
+                            "createdTime": 1688307493272,
+                            "selectedTime": 1689306360615,
+                            "samplePostTime": null,
+                            "qcCompletedTime": null,
+                            "priceVerificationTime": 1689487061674,
+                            "firstPurchaseTime": 1689567559189,
+                            "addedToSiteTime": null,
+                            "unPublishedTime": null,
+                            "samplePostingFinishedTime": null,
+                            "terminatedTime": null
+                        },
+                        "buyerUid": 3263440251,
+                        "buyerName": "muxinhe",
+                        "labelList": null,
+                        "supplierPriceReviewInfoList": [
+                            {
+                                "priceOrderId": 2307140170663,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 9270403874,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5598601（不带卡纸）"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.99元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5598601",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 20000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-02/1688307485830-ad55905be2314c018ea54a98798a47a5-goods.jpeg"
+                                    },
+                                    {
+                                        "skuId": 4729733457,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5598602"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.99元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5598602",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 20000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-02/1688307486358-c17cf03011e94a15b93d517bc6456acd-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2307140170668,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 3255794401,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5598603（带卡纸）"
+                                            }
+                                        ],
+                                        "supplierPrice": "5.69元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5598603",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 20000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-02/1688307486099-4170335a22c54edfa77fcebfa03dd6ee-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            }
+                        ],
+                        "skuList": [
+                            {
+                                "skuId": 9270403874,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5598601（不带卡纸）"
+                                    }
+                                ],
+                                "supplierPrice": "4.99元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5598601",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 20000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-02/1688307485830-ad55905be2314c018ea54a98798a47a5-goods.jpeg"
+                            },
+                            {
+                                "skuId": 4729733457,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5598602"
+                                    }
+                                ],
+                                "supplierPrice": "4.99元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5598602",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 20000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-02/1688307486358-c17cf03011e94a15b93d517bc6456acd-goods.jpeg"
+                            },
+                            {
+                                "skuId": 3255794401,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5598603（带卡纸）"
+                                    }
+                                ],
+                                "supplierPrice": "5.69元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5598603",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 20000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-02/1688307486099-4170335a22c54edfa77fcebfa03dd6ee-goods.jpeg"
+                            }
+                        ],
+                        "buyerSelectedSkuList": [],
+                        "defaultSelectedSkuList": null,
+                        "productSellMode": 1,
+                        "firstPurchaseSubmitAt": null,
+                        "reSampleTimes": 0,
+                        "remarkList": [],
+                        "selectCanceledTimes": 0,
+                        "qcSampleAdjustment": null,
+                        "sampleQcOrderStatus": 0,
+                        "primarySecondarySkc": 0,
+                        "primaryMultiColor": 0,
+                        "productHotTag": 100,
+                        "productSearchTag": 0,
+                        "extCode": "",
+                        "latestPriceComparingStatus": null,
+                        "terminationReasonList": null,
+                        "pictureReviewAccepted": true,
+                        "customsAccepted": null,
+                        "punishInfo": null
+                    }
+                ],
+                "supplierPrice": "4.99~5.69元",
+                "supplierPriceCurrencyType": "CNY",
+                "exchangeSupplierPrice": null,
+                "exchangeRate": null,
+                "productName": "跨境新款爱心珍珠锁蛇蝴蝶蘑菇锁耳扣创意个性耳环套装12件",
+                "productPropertyList": [
+                    {
+                        "name": "镶嵌材质",
+                        "value": "无"
+                    },
+                    {
+                        "name": "主体材质",
+                        "value": "合金"
+                    },
+                    {
+                        "name": "风格",
+                        "value": "复古"
+                    },
+                    {
+                        "name": "镀层",
+                        "value": "镀18K金"
+                    }
+                ],
+                "productCreatedAt": 1688307492000,
+                "productUpdatedAt": 1688307492000,
+                "advantageTagList": null,
+                "advantageTagInfoList": null,
+                "productSource": 1,
+                "isInAdvanceLabelWhiteList": null,
+                "pddGoodsInfo": null,
+                "buyerEditOpinionCount": null,
+                "remarkTypes": null,
+                "isCertsPassed": null,
+                "hasSkcSelected": null,
+                "customized": 0,
+                "customizedTemplateInfoVO": null,
+                "canChangeBuyer": null,
+                "changeBuyerTimes": null,
+                "biddingTypeList": null,
+                "biddingInvitationOrderId": null,
+                "categoryMissPlace": false,
+                "recommendCategory": [
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚垂坠式耳环",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚耳钉",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚环状耳环",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚夹式耳环"
+                ],
+                "inSiteSimilarType": 1,
+                "activateAt": null,
+                "activateTime": 0,
+                "activateType": 0,
+                "activateReducePrice": null,
+                "hasActivateButton": null,
+                "activateButtonGray": null,
+                "nextActivateTime": null,
+                "preAutoSelect": null,
+                "inventoryRegion": null
+            },
+            {
+                "supplierId": 634418210372218,
+                "supplierName": "glistening star",
+                "productId": 711496983,
+                "goodsId": null,
+                "isDress": false,
+                "sampleNeeded": false,
+                "mustSkipSample": false,
+                "leafCategoryName": "女士时尚耳钉",
+                "leafCategoryId": 29520,
+                "fullCategoryName": [
+                    "服装、鞋靴和珠宝饰品",
+                    "女士时尚",
+                    "女士饰品",
+                    "女士耳饰",
+                    "女士时尚耳钉"
+                ],
+                "carouselImageUrlList": [
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688283745584-effd8200a4d74fc7aae8450270a07226-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688283746608-659e9dbe691b41928b52c839eb6180d0-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688283747794-8f660b7738fc4dde8b940224c4b2769a-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688283749403-16de9bc6e35a49cb96c8ac8034cf1d06-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-07-02/1688283750619-12fb12bab36643be8ef72d89f0a785ee-goods.jpeg"
+                ],
+                "skcList": [
+                    {
+                        "selectId": 2307110368049,
+                        "skcId": 5886784664,
+                        "selectStatus": 11,
+                        "goodsSkcStatus": null,
+                        "color": null,
+                        "colorName": null,
+                        "supplierPrice": "6.00元",
+                        "supplierPriceCurrencyType": "CNY",
+                        "exchangeSupplierPrice": null,
+                        "exchangeRate": null,
+                        "previewImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-07-02/1688283745584-effd8200a4d74fc7aae8450270a07226-goods.jpeg"
+                        ],
+                        "sampleType": 1,
+                        "sampleQcType": 1,
+                        "qcInfo": null,
+                        "statusTime": {
+                            "createdTime": 1688283759411,
+                            "selectedTime": 1689082337369,
+                            "samplePostTime": null,
+                            "qcCompletedTime": null,
+                            "priceVerificationTime": 1689229350764,
+                            "firstPurchaseTime": 1689323119509,
+                            "addedToSiteTime": null,
+                            "unPublishedTime": null,
+                            "samplePostingFinishedTime": null,
+                            "terminatedTime": null
+                        },
+                        "buyerUid": 3263440251,
+                        "buyerName": "muxinhe",
+                        "labelList": null,
+                        "supplierPriceReviewInfoList": [
+                            {
+                                "priceOrderId": 2307111313720,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 1738350508,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "MSTZ-37"
+                                            }
+                                        ],
+                                        "supplierPrice": "6.00元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "MSTZ-37",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 24000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-02/1688283755201-44d4c443f050495096f8d1bd38ffb85d-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            }
+                        ],
+                        "skuList": [
+                            {
+                                "skuId": 1738350508,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "MSTZ-37"
+                                    }
+                                ],
+                                "supplierPrice": "6.00元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "MSTZ-37",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 24000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-07-02/1688283755201-44d4c443f050495096f8d1bd38ffb85d-goods.jpeg"
+                            }
+                        ],
+                        "buyerSelectedSkuList": [],
+                        "defaultSelectedSkuList": null,
+                        "productSellMode": 1,
+                        "firstPurchaseSubmitAt": null,
+                        "reSampleTimes": 0,
+                        "remarkList": [],
+                        "selectCanceledTimes": 0,
+                        "qcSampleAdjustment": null,
+                        "sampleQcOrderStatus": 0,
+                        "primarySecondarySkc": 0,
+                        "primaryMultiColor": 0,
+                        "productHotTag": 100,
+                        "productSearchTag": 0,
+                        "extCode": "",
+                        "latestPriceComparingStatus": null,
+                        "terminationReasonList": null,
+                        "pictureReviewAccepted": true,
+                        "customsAccepted": null,
+                        "punishInfo": null
+                    }
+                ],
+                "supplierPrice": "6.00元",
+                "supplierPriceCurrencyType": "CNY",
+                "exchangeSupplierPrice": null,
+                "exchangeRate": null,
+                "productName": "精致高级粉色六对耳环套装保色郁金香百搭小巧耳钉炫彩树脂耳圈",
+                "productPropertyList": [
+                    {
+                        "name": "镶嵌材质",
+                        "value": "树脂"
+                    },
+                    {
+                        "name": "主体材质",
+                        "value": "合金"
+                    },
+                    {
+                        "name": "风格",
+                        "value": "复古"
+                    },
+                    {
+                        "name": "镀层",
+                        "value": "镀18K金"
+                    }
+                ],
+                "productCreatedAt": 1688283759000,
+                "productUpdatedAt": 1688283759000,
+                "advantageTagList": null,
+                "advantageTagInfoList": null,
+                "productSource": 1,
+                "isInAdvanceLabelWhiteList": null,
+                "pddGoodsInfo": null,
+                "buyerEditOpinionCount": null,
+                "remarkTypes": null,
+                "isCertsPassed": null,
+                "hasSkcSelected": null,
+                "customized": 0,
+                "customizedTemplateInfoVO": null,
+                "canChangeBuyer": null,
+                "changeBuyerTimes": null,
+                "biddingTypeList": null,
+                "biddingInvitationOrderId": null,
+                "categoryMissPlace": false,
+                "recommendCategory": [
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚耳钉",
+                    "玩具与游戏>过家家>装扮与饰品>装扮珠宝首饰>耳环"
+                ],
+                "inSiteSimilarType": 2,
+                "activateAt": null,
+                "activateTime": 0,
+                "activateType": 0,
+                "activateReducePrice": null,
+                "hasActivateButton": null,
+                "activateButtonGray": null,
+                "nextActivateTime": null,
+                "preAutoSelect": null,
+                "inventoryRegion": null
+            },
+            {
+                "supplierId": 634418210372218,
+                "supplierName": "glistening star",
+                "productId": 310551723,
+                "goodsId": null,
+                "isDress": false,
+                "sampleNeeded": false,
+                "mustSkipSample": false,
+                "leafCategoryName": "其他（女士耳饰）",
+                "leafCategoryId": 29521,
+                "fullCategoryName": [
+                    "服装、鞋靴和珠宝饰品",
+                    "女士时尚",
+                    "女士饰品",
+                    "女士耳饰",
+                    "其他（女士耳饰）"
+                ],
+                "carouselImageUrlList": [
+                    "https://kj-img.pddpic.com/product/open/2023-06-29/1688016073120-e0c72378294941f8ab218ffa4444967c-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-29/1688016075818-953f565349d84fd28305e852564b6093-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-29/1688016078216-ae09dcebace04e589d7ae1eac33dfdbd-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-29/1688016080855-d61694597ae942648743025660599485-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-29/1688016082759-057a68c5957145bc8e6674fa9e0156a9-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-29/1688016084281-ad24a37cc5e1453e944e6eebb4327132-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-29/1688016085700-fde0303e697442f6be9bb3f52982fde7-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-29/1688016087053-6e173cf11cab4eec9e8891905593f043-goods.jpeg"
+                ],
+                "skcList": [
+                    {
+                        "selectId": 2306300198943,
+                        "skcId": 5341188757,
+                        "selectStatus": 11,
+                        "goodsSkcStatus": null,
+                        "color": null,
+                        "colorName": null,
+                        "supplierPrice": "4.70~5.00元",
+                        "supplierPriceCurrencyType": "CNY",
+                        "exchangeSupplierPrice": null,
+                        "exchangeRate": null,
+                        "previewImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-06-29/1688016073120-e0c72378294941f8ab218ffa4444967c-goods.jpeg"
+                        ],
+                        "sampleType": 1,
+                        "sampleQcType": 1,
+                        "qcInfo": null,
+                        "statusTime": {
+                            "createdTime": 1688016098655,
+                            "selectedTime": 1688121155421,
+                            "samplePostTime": null,
+                            "qcCompletedTime": null,
+                            "priceVerificationTime": 1688275011304,
+                            "firstPurchaseTime": 1688637220046,
+                            "addedToSiteTime": null,
+                            "unPublishedTime": null,
+                            "samplePostingFinishedTime": null,
+                            "terminatedTime": null
+                        },
+                        "buyerUid": 3263440251,
+                        "buyerName": "muxinhe",
+                        "labelList": null,
+                        "supplierPriceReviewInfoList": [
+                            {
+                                "priceOrderId": 2306300265834,
+                                "times": 3,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 9888421206,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5614601"
+                                            }
+                                        ],
+                                        "supplierPrice": "5.00元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5614601",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 29000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-29/1688016090480-0f1a49e3ab1249b9949165979c084e3b-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2306300265842,
+                                "times": 2,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 4393288822,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5610101"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.70元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5610101",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 29000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-29/1688016090214-b827b63245da4dd48b6c448f704919de-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            }
+                        ],
+                        "skuList": [
+                            {
+                                "skuId": 4393288822,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5610101"
+                                    }
+                                ],
+                                "supplierPrice": "4.70元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5610101",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 29000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-29/1688016090214-b827b63245da4dd48b6c448f704919de-goods.jpeg"
+                            },
+                            {
+                                "skuId": 9888421206,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5614601"
+                                    }
+                                ],
+                                "supplierPrice": "5.00元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5614601",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 29000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-29/1688016090480-0f1a49e3ab1249b9949165979c084e3b-goods.jpeg"
+                            }
+                        ],
+                        "buyerSelectedSkuList": [],
+                        "defaultSelectedSkuList": null,
+                        "productSellMode": 1,
+                        "firstPurchaseSubmitAt": null,
+                        "reSampleTimes": 0,
+                        "remarkList": [],
+                        "selectCanceledTimes": 0,
+                        "qcSampleAdjustment": null,
+                        "sampleQcOrderStatus": 0,
+                        "primarySecondarySkc": 0,
+                        "primaryMultiColor": 0,
+                        "productHotTag": 1,
+                        "productSearchTag": 0,
+                        "extCode": "",
+                        "latestPriceComparingStatus": null,
+                        "terminationReasonList": null,
+                        "pictureReviewAccepted": true,
+                        "customsAccepted": null,
+                        "punishInfo": null
+                    }
+                ],
+                "supplierPrice": "4.70~5.00元",
+                "supplierPriceCurrencyType": "CNY",
+                "exchangeSupplierPrice": null,
+                "exchangeRate": null,
+                "productName": "创意几何形耳环复古珍珠耳饰赫本风耳环套装6件套欧美风金属耳圈",
+                "productPropertyList": [
+                    {
+                        "name": "镶嵌材质",
+                        "value": "仿珍珠"
+                    },
+                    {
+                        "name": "主体材质",
+                        "value": "合金"
+                    },
+                    {
+                        "name": "风格",
+                        "value": "复古"
+                    },
+                    {
+                        "name": "镀层",
+                        "value": "镀18K金"
+                    }
+                ],
+                "productCreatedAt": 1688016098000,
+                "productUpdatedAt": 1689167792000,
+                "advantageTagList": null,
+                "advantageTagInfoList": null,
+                "productSource": 1,
+                "isInAdvanceLabelWhiteList": null,
+                "pddGoodsInfo": null,
+                "buyerEditOpinionCount": null,
+                "remarkTypes": null,
+                "isCertsPassed": null,
+                "hasSkcSelected": null,
+                "customized": 0,
+                "customizedTemplateInfoVO": null,
+                "canChangeBuyer": null,
+                "changeBuyerTimes": null,
+                "biddingTypeList": null,
+                "biddingInvitationOrderId": null,
+                "categoryMissPlace": false,
+                "recommendCategory": [
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚环状耳环"
+                ],
+                "inSiteSimilarType": 1,
+                "activateAt": null,
+                "activateTime": 0,
+                "activateType": 0,
+                "activateReducePrice": null,
+                "hasActivateButton": null,
+                "activateButtonGray": null,
+                "nextActivateTime": null,
+                "preAutoSelect": null,
+                "inventoryRegion": null
+            },
+            {
+                "supplierId": 634418210372218,
+                "supplierName": "glistening star",
+                "productId": 712011841,
+                "goodsId": null,
+                "isDress": false,
+                "sampleNeeded": false,
+                "mustSkipSample": false,
+                "leafCategoryName": "女士时尚垂坠式耳环",
+                "leafCategoryId": 29514,
+                "fullCategoryName": [
+                    "服装、鞋靴和珠宝饰品",
+                    "女士时尚",
+                    "女士饰品",
+                    "女士耳饰",
+                    "女士时尚垂坠式耳环"
+                ],
+                "carouselImageUrlList": [
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687960412676-821ddfd29f7a46af829be4a80354eebb-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687960414976-65d4562e60344f83b7a1c547bde15507-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687960416367-89d8cf9b5b4d41e4bd440cac485f8695-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/Fancyalgo/VirtualModelMatting/e46aa8501b7ada5f2860955211079af6.jpg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687960420779-bb5de812277943f5ad4ba46451f655f9-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687960422868-09854343c9ae49b7bfa0435541287593-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687960424117-7f954c653368496890f85283ca207188-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687960425712-5c750decfa304ae9b7834830e0dd1856-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687960426894-2bf019f54a054125b57611694b0e2585-goods.jpeg"
+                ],
+                "skcList": [
+                    {
+                        "selectId": 2306300211660,
+                        "skcId": 2814634199,
+                        "selectStatus": 11,
+                        "goodsSkcStatus": null,
+                        "color": null,
+                        "colorName": null,
+                        "supplierPrice": "3.00~3.30元",
+                        "supplierPriceCurrencyType": "CNY",
+                        "exchangeSupplierPrice": null,
+                        "exchangeRate": null,
+                        "previewImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-06-28/1687960412676-821ddfd29f7a46af829be4a80354eebb-goods.jpeg"
+                        ],
+                        "sampleType": 1,
+                        "sampleQcType": 1,
+                        "qcInfo": null,
+                        "statusTime": {
+                            "createdTime": 1687960444546,
+                            "selectedTime": 1688122337887,
+                            "samplePostTime": null,
+                            "qcCompletedTime": null,
+                            "priceVerificationTime": 1688375861712,
+                            "firstPurchaseTime": 1689487964021,
+                            "addedToSiteTime": null,
+                            "unPublishedTime": null,
+                            "samplePostingFinishedTime": null,
+                            "terminatedTime": null
+                        },
+                        "buyerUid": 3263440251,
+                        "buyerName": "muxinhe",
+                        "labelList": null,
+                        "supplierPriceReviewInfoList": [
+                            {
+                                "priceOrderId": 2306300281496,
+                                "times": 2,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 8193712371,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5809801"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "合金抛光"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.30元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5809801",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 5,
+                                        "weight": 18000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687960431008-5d6f89c4f0b04ba596afdf5110d4f300-goods.jpeg"
+                                    },
+                                    {
+                                        "skuId": 8085005227,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5809802"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "合金抛光"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.30元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5809802",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 5,
+                                        "weight": 18000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687960431378-10434926c8104c36a2ab5ecb91fd1c25-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2306300281509,
+                                "times": 4,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 1000039256,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5772601"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "合金抛光"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.00元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5772601",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 5,
+                                        "weight": 18000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687960430033-923a3f5c04974e968203362541417e0e-goods.jpeg"
+                                    },
+                                    {
+                                        "skuId": 1002763337,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5772602"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "合金抛光"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.00元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5772602",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 5,
+                                        "weight": 18000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687960430397-150fc634bd2b43b5a7183304b2fa1054-goods.jpeg"
+                                    },
+                                    {
+                                        "skuId": 6721263336,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5772701"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "合金抛光"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.00元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5772701",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 5,
+                                        "weight": 18000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687960431594-32349f9592e64323b4574939ae3d02c5-goods.jpeg"
+                                    },
+                                    {
+                                        "skuId": 5429940162,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "5772702"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "合金抛光"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.00元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "5772702",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 5,
+                                        "weight": 18000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687960432018-81d74e9cdcf8443c89257af31ecab310-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            }
+                        ],
+                        "skuList": [
+                            {
+                                "skuId": 1000039256,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5772601"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "合金抛光"
+                                    }
+                                ],
+                                "supplierPrice": "3.00元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5772601",
+                                "len": 100,
+                                "width": 100,
+                                "height": 5,
+                                "weight": 18000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687960430033-923a3f5c04974e968203362541417e0e-goods.jpeg"
+                            },
+                            {
+                                "skuId": 1002763337,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5772602"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "合金抛光"
+                                    }
+                                ],
+                                "supplierPrice": "3.00元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5772602",
+                                "len": 100,
+                                "width": 100,
+                                "height": 5,
+                                "weight": 18000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687960430397-150fc634bd2b43b5a7183304b2fa1054-goods.jpeg"
+                            },
+                            {
+                                "skuId": 6721263336,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5772701"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "合金抛光"
+                                    }
+                                ],
+                                "supplierPrice": "3.00元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5772701",
+                                "len": 100,
+                                "width": 100,
+                                "height": 5,
+                                "weight": 18000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687960431594-32349f9592e64323b4574939ae3d02c5-goods.jpeg"
+                            },
+                            {
+                                "skuId": 5429940162,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5772702"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "合金抛光"
+                                    }
+                                ],
+                                "supplierPrice": "3.00元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5772702",
+                                "len": 100,
+                                "width": 100,
+                                "height": 5,
+                                "weight": 18000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687960432018-81d74e9cdcf8443c89257af31ecab310-goods.jpeg"
+                            },
+                            {
+                                "skuId": 8193712371,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5809801"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "合金抛光"
+                                    }
+                                ],
+                                "supplierPrice": "3.30元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5809801",
+                                "len": 100,
+                                "width": 100,
+                                "height": 5,
+                                "weight": 18000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687960431008-5d6f89c4f0b04ba596afdf5110d4f300-goods.jpeg"
+                            },
+                            {
+                                "skuId": 8085005227,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "5809802"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "合金抛光"
+                                    }
+                                ],
+                                "supplierPrice": "3.30元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "5809802",
+                                "len": 100,
+                                "width": 100,
+                                "height": 5,
+                                "weight": 18000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687960431378-10434926c8104c36a2ab5ecb91fd1c25-goods.jpeg"
+                            }
+                        ],
+                        "buyerSelectedSkuList": [],
+                        "defaultSelectedSkuList": null,
+                        "productSellMode": 1,
+                        "firstPurchaseSubmitAt": null,
+                        "reSampleTimes": 0,
+                        "remarkList": [],
+                        "selectCanceledTimes": 0,
+                        "qcSampleAdjustment": null,
+                        "sampleQcOrderStatus": 0,
+                        "primarySecondarySkc": 0,
+                        "primaryMultiColor": 0,
+                        "productHotTag": 1,
+                        "productSearchTag": 0,
+                        "extCode": "",
+                        "latestPriceComparingStatus": null,
+                        "terminationReasonList": null,
+                        "pictureReviewAccepted": true,
+                        "customsAccepted": null,
+                        "punishInfo": null
+                    }
+                ],
+                "supplierPrice": "3.00~3.30元",
+                "supplierPriceCurrencyType": "CNY",
+                "exchangeSupplierPrice": null,
+                "exchangeRate": null,
+                "productName": "亚马逊热销爆款水滴型耳环高级感合金瓜子型耳环简约时尚金色耳钉",
+                "productPropertyList": [
+                    {
+                        "name": "镶嵌材质",
+                        "value": "无"
+                    },
+                    {
+                        "name": "主体材质",
+                        "value": "合金"
+                    },
+                    {
+                        "name": "风格",
+                        "value": "复古"
+                    },
+                    {
+                        "name": "镀层",
+                        "value": "镀18K金"
+                    }
+                ],
+                "productCreatedAt": 1687960443000,
+                "productUpdatedAt": 1688702349000,
+                "advantageTagList": null,
+                "advantageTagInfoList": null,
+                "productSource": 1,
+                "isInAdvanceLabelWhiteList": null,
+                "pddGoodsInfo": null,
+                "buyerEditOpinionCount": null,
+                "remarkTypes": null,
+                "isCertsPassed": null,
+                "hasSkcSelected": null,
+                "customized": 0,
+                "customizedTemplateInfoVO": null,
+                "canChangeBuyer": null,
+                "changeBuyerTimes": null,
+                "biddingTypeList": null,
+                "biddingInvitationOrderId": null,
+                "categoryMissPlace": false,
+                "recommendCategory": [
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚垂坠式耳环",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚耳钉",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚耳廓环和全耳式耳环"
+                ],
+                "inSiteSimilarType": 1,
+                "activateAt": null,
+                "activateTime": 0,
+                "activateType": 0,
+                "activateReducePrice": null,
+                "hasActivateButton": null,
+                "activateButtonGray": null,
+                "nextActivateTime": null,
+                "preAutoSelect": null,
+                "inventoryRegion": null
+            },
+            {
+                "supplierId": 634418210372218,
+                "supplierName": "glistening star",
+                "productId": 321308995,
+                "goodsId": null,
+                "isDress": false,
+                "sampleNeeded": false,
+                "mustSkipSample": false,
+                "leafCategoryName": "女士时尚垂坠式耳环",
+                "leafCategoryId": 29514,
+                "fullCategoryName": [
+                    "服装、鞋靴和珠宝饰品",
+                    "女士时尚",
+                    "女士饰品",
+                    "女士耳饰",
+                    "女士时尚垂坠式耳环"
+                ],
+                "carouselImageUrlList": [
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687958907408-d787a3a54140490181fe3be8fbd1080f-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687958908884-1d7d4cecebdb4211b4f5aa635f7f394e-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687958911149-ae52232072474220bf878df688d001f0-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/Fancyalgo/VirtualModelMatting/a0247c6936aacb6188d80f9ce733de46.jpg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687958915171-17f209752fc24bc481d23feb3f43c822-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687958917546-b33168b8dc234cc398e9d3ef1d01d1e1-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687958920601-8b990f0858964a26b515c658593cc632-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687958922699-80f4a42b1fe44537840aed9f5ecfbfd9-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687958924757-9b1b4c7f17bc43c8b972463e3c98e52f-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-28/1687958926848-7129fcdac2f24bb886e5ce1709b72a42-goods.jpeg"
+                ],
+                "skcList": [
+                    {
+                        "selectId": 2306290007938,
+                        "skcId": 6937168687,
+                        "selectStatus": 11,
+                        "goodsSkcStatus": null,
+                        "color": null,
+                        "colorName": null,
+                        "supplierPrice": "3.89~4.59元",
+                        "supplierPriceCurrencyType": "CNY",
+                        "exchangeSupplierPrice": null,
+                        "exchangeRate": null,
+                        "previewImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-06-28/1687958907408-d787a3a54140490181fe3be8fbd1080f-goods.jpeg"
+                        ],
+                        "sampleType": 1,
+                        "sampleQcType": 1,
+                        "qcInfo": null,
+                        "statusTime": {
+                            "createdTime": 1687958939131,
+                            "selectedTime": 1687970177924,
+                            "samplePostTime": null,
+                            "qcCompletedTime": null,
+                            "priceVerificationTime": 1688027634426,
+                            "firstPurchaseTime": 1688834522535,
+                            "addedToSiteTime": null,
+                            "unPublishedTime": null,
+                            "samplePostingFinishedTime": null,
+                            "terminatedTime": null
+                        },
+                        "buyerUid": 3263440251,
+                        "buyerName": "muxinhe",
+                        "labelList": null,
+                        "supplierPriceReviewInfoList": [
+                            {
+                                "priceOrderId": 2306290020495,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 7501861419,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "B11-02-01月亮三角流苏"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "合金"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.89元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "B11-02-01",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 15000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958930094-5728fe9d71bd404984a5595c6cc77848-goods.jpeg"
+                                    },
+                                    {
+                                        "skuId": 9920779862,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "B11-02-03动物脚印叶子菠萝流苏"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "合金"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.89元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "B11-02-03",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 15000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958931756-33b529ae820e4077a036905de867d544-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2306290020517,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 6503117492,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "B11-02-02爱心大圆流苏"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "合金"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.59元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "B11-02-02",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 15000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958932047-7e99f11fe55e4f07a388b34228254292-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2306290020541,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 3543234677,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "B11-02-06珍珠爱心锆石"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "合金"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.11元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "B11-02-06",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 15000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958931031-18f8785bb3404db09f474126d7529224-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            },
+                            {
+                                "priceOrderId": 2306290020546,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 4368416617,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "B11-02-05螺旋编织大圈流苏"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "合金"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.99元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "B11-02-05",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 15000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958930687-f789b67de76541a58afbec39b6c810a2-goods.jpeg"
+                                    },
+                                    {
+                                        "skuId": 9835219048,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "B11-02-07爱心圆圈亮片流苏"
+                                            },
+                                            {
+                                                "name": "尺码",
+                                                "value": "合金"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.99元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "B11-02-07",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 15000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958931449-f122d92a84394d418ff8aff5468b4bd8-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            }
+                        ],
+                        "skuList": [
+                            {
+                                "skuId": 7501861419,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "B11-02-01月亮三角流苏"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "合金"
+                                    }
+                                ],
+                                "supplierPrice": "3.89元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "B11-02-01",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 15000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958930094-5728fe9d71bd404984a5595c6cc77848-goods.jpeg"
+                            },
+                            {
+                                "skuId": 6503117492,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "B11-02-02爱心大圆流苏"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "合金"
+                                    }
+                                ],
+                                "supplierPrice": "4.59元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "B11-02-02",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 15000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958932047-7e99f11fe55e4f07a388b34228254292-goods.jpeg"
+                            },
+                            {
+                                "skuId": 9920779862,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "B11-02-03动物脚印叶子菠萝流苏"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "合金"
+                                    }
+                                ],
+                                "supplierPrice": "3.89元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "B11-02-03",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 15000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958931756-33b529ae820e4077a036905de867d544-goods.jpeg"
+                            },
+                            {
+                                "skuId": 4368416617,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "B11-02-05螺旋编织大圈流苏"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "合金"
+                                    }
+                                ],
+                                "supplierPrice": "3.99元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "B11-02-05",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 15000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958930687-f789b67de76541a58afbec39b6c810a2-goods.jpeg"
+                            },
+                            {
+                                "skuId": 3543234677,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "B11-02-06珍珠爱心锆石"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "合金"
+                                    }
+                                ],
+                                "supplierPrice": "4.11元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "B11-02-06",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 15000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958931031-18f8785bb3404db09f474126d7529224-goods.jpeg"
+                            },
+                            {
+                                "skuId": 9835219048,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "B11-02-07爱心圆圈亮片流苏"
+                                    },
+                                    {
+                                        "name": "尺码",
+                                        "value": "合金"
+                                    }
+                                ],
+                                "supplierPrice": "3.99元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "B11-02-07",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 15000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958931449-f122d92a84394d418ff8aff5468b4bd8-goods.jpeg"
+                            }
+                        ],
+                        "buyerSelectedSkuList": [],
+                        "defaultSelectedSkuList": null,
+                        "productSellMode": 1,
+                        "firstPurchaseSubmitAt": null,
+                        "reSampleTimes": 0,
+                        "remarkList": [],
+                        "selectCanceledTimes": 0,
+                        "qcSampleAdjustment": null,
+                        "sampleQcOrderStatus": 0,
+                        "primarySecondarySkc": 0,
+                        "primaryMultiColor": 0,
+                        "productHotTag": 1,
+                        "productSearchTag": 0,
+                        "extCode": "",
+                        "latestPriceComparingStatus": null,
+                        "terminationReasonList": null,
+                        "pictureReviewAccepted": true,
+                        "customsAccepted": null,
+                        "punishInfo": null
+                    }
+                ],
+                "supplierPrice": "3.89~4.59元",
+                "supplierPriceCurrencyType": "CNY",
+                "exchangeSupplierPrice": null,
+                "exchangeRate": null,
+                "productName": "韩之尚跨境耳饰品 欧美创意新款流苏耳环女 波西米亚风花朵耳环女",
+                "productPropertyList": [
+                    {
+                        "name": "镶嵌材质",
+                        "value": "锆石"
+                    },
+                    {
+                        "name": "主体材质",
+                        "value": "合金"
+                    },
+                    {
+                        "name": "主题",
+                        "value": "动物"
+                    },
+                    {
+                        "name": "风格",
+                        "value": "波西米亚"
+                    },
+                    {
+                        "name": "镀层",
+                        "value": "镀18K金"
+                    }
+                ],
+                "productCreatedAt": 1687958938000,
+                "productUpdatedAt": 1689623068000,
+                "advantageTagList": null,
+                "advantageTagInfoList": null,
+                "productSource": 1,
+                "isInAdvanceLabelWhiteList": null,
+                "pddGoodsInfo": null,
+                "buyerEditOpinionCount": null,
+                "remarkTypes": null,
+                "isCertsPassed": null,
+                "hasSkcSelected": null,
+                "customized": 0,
+                "customizedTemplateInfoVO": null,
+                "canChangeBuyer": null,
+                "changeBuyerTimes": null,
+                "biddingTypeList": null,
+                "biddingInvitationOrderId": null,
+                "categoryMissPlace": false,
+                "recommendCategory": [
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚垂坠式耳环",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>其他（女士耳饰）",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚耳环花托",
+                    "玩具与游戏>过家家>装扮与饰品>装扮珠宝首饰>耳环",
+                    "服装、鞋靴和珠宝饰品>男士时尚>男士饰品>男士耳饰"
+                ],
+                "inSiteSimilarType": 2,
+                "activateAt": null,
+                "activateTime": 0,
+                "activateType": 0,
+                "activateReducePrice": null,
+                "hasActivateButton": null,
+                "activateButtonGray": null,
+                "nextActivateTime": null,
+                "preAutoSelect": null,
+                "inventoryRegion": null
+            },
+            {
+                "supplierId": 634418210372218,
+                "supplierName": "glistening star",
+                "productId": 741820216,
+                "goodsId": null,
+                "isDress": false,
+                "sampleNeeded": false,
+                "mustSkipSample": false,
+                "leafCategoryName": "其他（女士耳饰）",
+                "leafCategoryId": 29521,
+                "fullCategoryName": [
+                    "服装、鞋靴和珠宝饰品",
+                    "女士时尚",
+                    "女士饰品",
+                    "女士耳饰",
+                    "其他（女士耳饰）"
+                ],
+                "carouselImageUrlList": [
+                    "https://kj-img.pddpic.com/product/open/2023-06-20/1687265579974-91a9ae49e2ca4d0497b766f9139312ac-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-20/1687265581357-8e4b6ceffc87440390866312566a8956-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-20/1687265582658-ac9d1fea10534957af186dad24fb4edc-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/Fancyalgo/VirtualModelMatting/047b22c363e004325d8eb23164ea5791.jpg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-20/1687265585476-1b08e7e777ea4649b3bdb790b6ef6e29-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-20/1687265586650-2bd54da6b51d47e5ada432ae831fd50c-goods.jpeg"
+                ],
+                "skcList": [
+                    {
+                        "selectId": 2306300177983,
+                        "skcId": 5738848817,
+                        "selectStatus": 11,
+                        "goodsSkcStatus": null,
+                        "color": null,
+                        "colorName": null,
+                        "supplierPrice": "3.90元",
+                        "supplierPriceCurrencyType": "CNY",
+                        "exchangeSupplierPrice": null,
+                        "exchangeRate": null,
+                        "previewImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-06-20/1687265579974-91a9ae49e2ca4d0497b766f9139312ac-goods.jpeg"
+                        ],
+                        "sampleType": 1,
+                        "sampleQcType": 1,
+                        "qcInfo": null,
+                        "statusTime": {
+                            "createdTime": 1687265596910,
+                            "selectedTime": 1688119583265,
+                            "samplePostTime": null,
+                            "qcCompletedTime": null,
+                            "priceVerificationTime": 1688223177905,
+                            "firstPurchaseTime": 1688637265329,
+                            "addedToSiteTime": null,
+                            "unPublishedTime": null,
+                            "samplePostingFinishedTime": null,
+                            "terminatedTime": null
+                        },
+                        "buyerUid": 3263440251,
+                        "buyerName": "muxinhe",
+                        "labelList": null,
+                        "supplierPriceReviewInfoList": [
+                            {
+                                "priceOrderId": 2306300249690,
+                                "times": 2,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 6397432273,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "金色"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.90元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "H22336",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 23000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-20/1687265591277-8ab865b51aaa462c95031349ac730030-goods.jpeg"
+                                    },
+                                    {
+                                        "skuId": 8954702700,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "银色"
+                                            }
+                                        ],
+                                        "supplierPrice": "3.90元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "H22337",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 23000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-20/1687265591523-c7517838751a483e977185f0d39ac06b-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            }
+                        ],
+                        "skuList": [
+                            {
+                                "skuId": 6397432273,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "金色"
+                                    }
+                                ],
+                                "supplierPrice": "3.90元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "H22336",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 23000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-20/1687265591277-8ab865b51aaa462c95031349ac730030-goods.jpeg"
+                            },
+                            {
+                                "skuId": 8954702700,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "银色"
+                                    }
+                                ],
+                                "supplierPrice": "3.90元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "H22337",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 23000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-20/1687265591523-c7517838751a483e977185f0d39ac06b-goods.jpeg"
+                            }
+                        ],
+                        "buyerSelectedSkuList": [],
+                        "defaultSelectedSkuList": null,
+                        "productSellMode": 1,
+                        "firstPurchaseSubmitAt": null,
+                        "reSampleTimes": 0,
+                        "remarkList": [],
+                        "selectCanceledTimes": 0,
+                        "qcSampleAdjustment": null,
+                        "sampleQcOrderStatus": 0,
+                        "primarySecondarySkc": 0,
+                        "primaryMultiColor": 0,
+                        "productHotTag": 1,
+                        "productSearchTag": 0,
+                        "extCode": "",
+                        "latestPriceComparingStatus": null,
+                        "terminationReasonList": null,
+                        "pictureReviewAccepted": true,
+                        "customsAccepted": null,
+                        "punishInfo": null
+                    }
+                ],
+                "supplierPrice": "3.90元",
+                "supplierPriceCurrencyType": "CNY",
+                "exchangeSupplierPrice": null,
+                "exchangeRate": null,
+                "productName": "跨境新款创意个性简约耳环ins欧美风C型几何麻花金色合金耳环六件",
+                "productPropertyList": [
+                    {
+                        "name": "镶嵌材质",
+                        "value": "无"
+                    },
+                    {
+                        "name": "主体材质",
+                        "value": "合金"
+                    },
+                    {
+                        "name": "风格",
+                        "value": "复古"
+                    },
+                    {
+                        "name": "镀层",
+                        "value": "镀18K金"
+                    }
+                ],
+                "productCreatedAt": 1687265596000,
+                "productUpdatedAt": 1689620549000,
+                "advantageTagList": null,
+                "advantageTagInfoList": null,
+                "productSource": 1,
+                "isInAdvanceLabelWhiteList": null,
+                "pddGoodsInfo": null,
+                "buyerEditOpinionCount": null,
+                "remarkTypes": null,
+                "isCertsPassed": null,
+                "hasSkcSelected": null,
+                "customized": 0,
+                "customizedTemplateInfoVO": null,
+                "canChangeBuyer": null,
+                "changeBuyerTimes": null,
+                "biddingTypeList": null,
+                "biddingInvitationOrderId": null,
+                "categoryMissPlace": false,
+                "recommendCategory": [
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚环状耳环",
+                    "玩具与游戏>过家家>装扮与饰品>装扮珠宝首饰>耳环"
+                ],
+                "inSiteSimilarType": 1,
+                "activateAt": null,
+                "activateTime": 0,
+                "activateType": 0,
+                "activateReducePrice": null,
+                "hasActivateButton": null,
+                "activateButtonGray": null,
+                "nextActivateTime": null,
+                "preAutoSelect": null,
+                "inventoryRegion": null
+            },
+            {
+                "supplierId": 634418210372218,
+                "supplierName": "glistening star",
+                "productId": 248068059,
+                "goodsId": null,
+                "isDress": false,
+                "sampleNeeded": false,
+                "mustSkipSample": false,
+                "leafCategoryName": "女士时尚环状耳环",
+                "leafCategoryId": 29516,
+                "fullCategoryName": [
+                    "服装、鞋靴和珠宝饰品",
+                    "女士时尚",
+                    "女士饰品",
+                    "女士耳饰",
+                    "女士时尚环状耳环"
+                ],
+                "carouselImageUrlList": [
+                    "https://kj-img.pddpic.com/product/open/2023-06-20/1687265297883-fec5d34fda5f4704ad752b94a4e99a98-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-20/1687265298904-19b16fc3ee4741a8b1fa0a39f61ac9be-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-20/1687265300127-5f1ad9df369d4714b1658319237432fc-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/Fancyalgo/VirtualModelMatting/d5922ef21be0a819ca24cba0e6b83fb4.jpg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-20/1687265302598-9a6f3d90cec84773a562253f3037ebd5-goods.jpeg",
+                    "https://kj-img.pddpic.com/product/open/2023-06-20/1687265303730-84d1fa1a1e304460bd5c643d0f7e2e28-goods.jpeg"
+                ],
+                "skcList": [
+                    {
+                        "selectId": 2306280012709,
+                        "skcId": 7891342657,
+                        "selectStatus": 11,
+                        "goodsSkcStatus": null,
+                        "color": null,
+                        "colorName": null,
+                        "supplierPrice": "4.00元",
+                        "supplierPriceCurrencyType": "CNY",
+                        "exchangeSupplierPrice": null,
+                        "exchangeRate": null,
+                        "previewImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-06-20/1687265297883-fec5d34fda5f4704ad752b94a4e99a98-goods.jpeg"
+                        ],
+                        "sampleType": 1,
+                        "sampleQcType": 1,
+                        "qcInfo": null,
+                        "statusTime": {
+                            "createdTime": 1687265311344,
+                            "selectedTime": 1687884640006,
+                            "samplePostTime": null,
+                            "qcCompletedTime": null,
+                            "priceVerificationTime": 1687943737706,
+                            "firstPurchaseTime": 1688637314516,
+                            "addedToSiteTime": null,
+                            "unPublishedTime": null,
+                            "samplePostingFinishedTime": null,
+                            "terminatedTime": null
+                        },
+                        "buyerUid": 3263440251,
+                        "buyerName": "muxinhe",
+                        "labelList": null,
+                        "supplierPriceReviewInfoList": [
+                            {
+                                "priceOrderId": 2306280025435,
+                                "times": 1,
+                                "status": 2,
+                                "orderType": 1,
+                                "productSkuList": [
+                                    {
+                                        "skuId": 5978618962,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "金色"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.00元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "H22334",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 23000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-20/1687265305689-74f107df998443f7b747f91c5f6ec136-goods.jpeg"
+                                    },
+                                    {
+                                        "skuId": 9601578247,
+                                        "hasUploadBom": false,
+                                        "productPropertyList": [
+                                            {
+                                                "name": "颜色",
+                                                "value": "银色"
+                                            }
+                                        ],
+                                        "supplierPrice": "4.00元",
+                                        "priceReviewStatus": 2,
+                                        "supplierPriceCurrencyType": "CNY",
+                                        "exchangeSupplierPrice": null,
+                                        "exchangeRate": null,
+                                        "sensitiveList": [
+                                            100000
+                                        ],
+                                        "extCode": "H22335",
+                                        "len": 100,
+                                        "width": 100,
+                                        "height": 10,
+                                        "weight": 23000,
+                                        "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-20/1687265305886-a45b6296a6344abe9229c9b7b44b4514-goods.jpeg"
+                                    }
+                                ],
+                                "daysToConfirmLeft": null
+                            }
+                        ],
+                        "skuList": [
+                            {
+                                "skuId": 5978618962,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "金色"
+                                    }
+                                ],
+                                "supplierPrice": "4.00元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "H22334",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 23000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-20/1687265305689-74f107df998443f7b747f91c5f6ec136-goods.jpeg"
+                            },
+                            {
+                                "skuId": 9601578247,
+                                "hasUploadBom": false,
+                                "productPropertyList": [
+                                    {
+                                        "name": "颜色",
+                                        "value": "银色"
+                                    }
+                                ],
+                                "supplierPrice": "4.00元",
+                                "priceReviewStatus": 2,
+                                "supplierPriceCurrencyType": "CNY",
+                                "exchangeSupplierPrice": null,
+                                "exchangeRate": null,
+                                "sensitiveList": [
+                                    100000
+                                ],
+                                "extCode": "H22335",
+                                "len": 100,
+                                "width": 100,
+                                "height": 10,
+                                "weight": 23000,
+                                "skuPreviewImage": "https://kj-img.pddpic.com/product/open/2023-06-20/1687265305886-a45b6296a6344abe9229c9b7b44b4514-goods.jpeg"
+                            }
+                        ],
+                        "buyerSelectedSkuList": [],
+                        "defaultSelectedSkuList": null,
+                        "productSellMode": 1,
+                        "firstPurchaseSubmitAt": null,
+                        "reSampleTimes": 0,
+                        "remarkList": [],
+                        "selectCanceledTimes": 0,
+                        "qcSampleAdjustment": null,
+                        "sampleQcOrderStatus": 0,
+                        "primarySecondarySkc": 0,
+                        "primaryMultiColor": 0,
+                        "productHotTag": 1,
+                        "productSearchTag": 0,
+                        "extCode": "",
+                        "latestPriceComparingStatus": null,
+                        "terminationReasonList": null,
+                        "pictureReviewAccepted": true,
+                        "customsAccepted": null,
+                        "punishInfo": null
+                    }
+                ],
+                "supplierPrice": "4.00元",
+                "supplierPriceCurrencyType": "CNY",
+                "exchangeSupplierPrice": null,
+                "exchangeRate": null,
+                "productName": "跨境新款个性金属三管麻花耳环套装6件套个性ins耳圈金色c型耳环",
+                "productPropertyList": [
+                    {
+                        "name": "镶嵌材质",
+                        "value": "仿珍珠"
+                    },
+                    {
+                        "name": "主体材质",
+                        "value": "合金"
+                    },
+                    {
+                        "name": "风格",
+                        "value": "复古"
+                    },
+                    {
+                        "name": "镀层",
+                        "value": "镀18K金"
+                    }
+                ],
+                "productCreatedAt": 1687265311000,
+                "productUpdatedAt": 1689622849000,
+                "advantageTagList": null,
+                "advantageTagInfoList": null,
+                "productSource": 1,
+                "isInAdvanceLabelWhiteList": null,
+                "pddGoodsInfo": null,
+                "buyerEditOpinionCount": null,
+                "remarkTypes": null,
+                "isCertsPassed": null,
+                "hasSkcSelected": null,
+                "customized": 0,
+                "customizedTemplateInfoVO": null,
+                "canChangeBuyer": null,
+                "changeBuyerTimes": null,
+                "biddingTypeList": null,
+                "biddingInvitationOrderId": null,
+                "categoryMissPlace": false,
+                "recommendCategory": [
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚环状耳环",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚耳廓环和全耳式耳环",
+                    "服装、鞋靴和珠宝饰品>女士时尚>女士饰品>女士耳饰>女士时尚夹式耳环"
+                ],
+                "inSiteSimilarType": 1,
+                "activateAt": null,
+                "activateTime": 0,
+                "activateType": 0,
+                "activateReducePrice": null,
+                "hasActivateButton": null,
+                "activateButtonGray": null,
+                "nextActivateTime": null,
+                "preAutoSelect": null,
+                "inventoryRegion": null
+            }
+        ],
+        "productSkcStatusAggregation": [
+            {
+                "selectStatus": 1,
+                "count": 28
+            },
+            {
+                "selectStatus": 10,
+                "count": 4
+            },
+            {
+                "selectStatus": 11,
+                "count": 15
+            },
+            {
+                "selectStatus": 17,
+                "count": 1
+            },
+            {
+                "selectStatus": 7,
+                "count": 5
+            },
+            {
+                "selectStatus": 9,
+                "count": 3
+            }
+        ]
+    }
+}
