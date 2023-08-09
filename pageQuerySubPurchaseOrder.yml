@@ -1,0 +1,175 @@
+
+curl 'https://kuajing.pinduoduo.com/bgSongbird-api/supplier/deliverGoods/platform/pageQuerySubPurchaseOrder' \
+  -H 'authority: kuajing.pinduoduo.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: zh-CN,zh;q=0.9' \
+  -H 'anti-content: 0aqAfqnygjSgjgT9l07nNMsqqfbNspzC344qAb8q_kxss15cGE8zgjfAKPjzencnIcKHIBfPgTdZebtCkt6Th-FAtVSULebdn6_8Z1KF15wEtJTAZF2ZC14R0m2YqGoaTmYrNya9q8gyXGAJJT0jHHXzzUcagWYOv-Bpg0s7gvoa0JY0MSpKH87D5nUgCI-47TkGKcGk9UR-2DwfvCjjuB7d06cSC8S-eDoXlTnQ0wcSBzEX7j2oitWmQyhTreS9LDTcJTDsc91WTNvuPJzE9cuSV7b5Zr_vwZWENC5hCfsi0si9HcsV5YsO0cyMpL6YRVIhCr3gUn1L0xkw8oSf1J4fJT6LjLeeNCJzSufi2ulQPmAkPrRDPgV0Jbm3n8h1BgUdSm3GKkzwVTcEUHSz5Zcbrzsi0C7Fx_ny3nVlz-n_3SdUkJKegpzTFUq8qZArNIc8iJp8iIhbCzQzJ_P0IWGGSSh1q2L2tW9lYj8FinxXcmvMnMlZjfzqEL_50LC7j2dvAtmnKLj2G4DQKeZW73zbBjN2bH2yu62eUw6Bihu_tVqT0rDIxZmyRLq8d7zycOI6YVxZszv-XY8qtBEJHeLSyUiGMl4C2zDVYycMel_qcNoldHamkaoL9x-cgwNwlQ0DHjrf-GSxqnVTTyUWvKCl08HkXfT7OLO7brDOI8jFBaE1HqFsgl8n5mbcuNDvyuiCvXiCbn0wLzxPOLSKoQuUmrlzRJFF-honZiAWd6R9PxRrmaEwflqO' \
+  -H 'cache-control: max-age=0' \
+  -H 'content-type: application/json' \
+  -H 'cookie: _bee=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; _f77=6f8352db-3d3b-4d22-840b-a7ea88876cc2; _a42=4f526040-7d9d-4151-bcec-b86be9d48bf9; api_uid=CmlqNWRGQQUDawBThno0Ag==; _nano_fp=XpEJX5Xxnpmjn0d8nC_gtoIgd1lWrNnWYuYin1UJ; rckk=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; ru1k=6f8352db-3d3b-4d22-840b-a7ea88876cc2; ru2k=4f526040-7d9d-4151-bcec-b86be9d48bf9; SUB_PASS_ID=eyJ0IjoieExxZm5Ud2VIcTVUeStPQTlPa1ZkcENCa0J3UnlTTVplNjJhQUhqZm85UXNDbWVUZm1yckU0b3NBTUJrZ0IveSIsInYiOjEsInMiOjEwMDAwLCJ1Ijo5MDQ2ODAyNDAxMzI5fQ==' \
+  -H 'mallid: 634418210372218' \
+  -H 'origin: https://kuajing.pinduoduo.com' \
+  -H 'referer: https://kuajing.pinduoduo.com/main/order-manager/shipping-desk' \
+  -H 'sec-ch-ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36' \
+  --data-raw '{"pageNo":1,"pageSize":100}' \
+  --compressed
+
+{
+    "success": true,
+    "errorCode": 1000000,
+    "errorMsg": null,
+    "result": {
+        "list": [
+            {
+                "subPurchaseOrderBasicVO": {
+                    "subPurchaseOrderSn": "WB230808477534",
+                    "productSkcId": 6937168687,
+                    "productSkcPicture": "https://kj-img.pddpic.com/product/open/2023-06-28/1687958907408-d787a3a54140490181fe3be8fbd1080f-goods.jpeg",
+                    "purchaseStockType": 0,
+                    "settlementType": 1,
+                    "isFirst": false,
+                    "supplierId": 634418210372218,
+                    "purchaseTime": 1691460980875,
+                    "purchaseQuantity": 10,
+                    "skcExtCode": "",
+                    "isClothCategory": false,
+                    "urgencyType": 0,
+                    "isCustomProduct": false,
+                    "productName": null,
+                    "subWarehouseId": 706629602510,
+                    "subWarehouseName": "三水百利丰2号子仓",
+                    "receiveAddressInfo": {
+                        "provinceName": "广东省",
+                        "provinceCode": 43000000000006,
+                        "cityName": "佛山市",
+                        "cityCode": 43000000000080,
+                        "districtName": "三水区",
+                        "districtCode": 43000000000749,
+                        "receiverName": "kachuang",
+                        "detailAddress": "广东省佛山市三水区进港大道与梅西大道交叉路口百利丰园区2号子仓",
+                        "phone": "13052248238"
+                    },
+                    "fragileTag": false,
+                    "productInventoryRegion": 1,
+                    "autoRemoveFromDeliveryPlatformTime": 3571881,
+                    "expectLatestDeliverTimeOrDefault": null,
+                    "expectLatestArrivalTimeOrDefault": null,
+                    "deliverUpcomingDelayTimeMillis": 43200000,
+                    "arrivalUpcomingDelayTimeMillis": 21600000,
+                    "deliverDisplayCountdownMillis": 3600000,
+                    "arrivalDisplayCountdownMillis": 3600000
+                },
+                "orderDetailVOList": [
+                    {
+                        "productSkuId": 7501861419,
+                        "productSkuImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-06-28/1687958930094-5728fe9d71bd404984a5595c6cc77848-goods.jpeg"
+                        ],
+                        "productSkuPurchaseQuantity": 5,
+                        "skuDeliveryQuantityMaxLimit": 15,
+                        "color": "B11-02-01月亮三角流苏",
+                        "size": "合金",
+                        "productOriginalSkuId": 7501861419,
+                        "personalText": ""
+                    },
+                    {
+                        "productSkuId": 9835219048,
+                        "productSkuImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-06-28/1687958931449-f122d92a84394d418ff8aff5468b4bd8-goods.jpeg"
+                        ],
+                        "productSkuPurchaseQuantity": 5,
+                        "skuDeliveryQuantityMaxLimit": 15,
+                        "color": "B11-02-07爱心圆圈亮片流苏",
+                        "size": "合金",
+                        "productOriginalSkuId": 9835219048,
+                        "personalText": ""
+                    }
+                ]
+            },
+            {
+                "subPurchaseOrderBasicVO": {
+                    "subPurchaseOrderSn": "WB230808050823",
+                    "productSkcId": 7891342657,
+                    "productSkcPicture": "https://kj-img.pddpic.com/product/open/2023-06-20/1687265297883-fec5d34fda5f4704ad752b94a4e99a98-goods.jpeg",
+                    "purchaseStockType": 0,
+                    "settlementType": 1,
+                    "isFirst": false,
+                    "supplierId": 634418210372218,
+                    "purchaseTime": 1691424754046,
+                    "purchaseQuantity": 1,
+                    "skcExtCode": "",
+                    "isClothCategory": false,
+                    "urgencyType": 0,
+                    "isCustomProduct": false,
+                    "productName": null,
+                    "subWarehouseId": 706629602510,
+                    "subWarehouseName": "三水百利丰2号子仓",
+                    "receiveAddressInfo": {
+                        "provinceName": "广东省",
+                        "provinceCode": 43000000000006,
+                        "cityName": "佛山市",
+                        "cityCode": 43000000000080,
+                        "districtName": "三水区",
+                        "districtCode": 43000000000749,
+                        "receiverName": "kachuang",
+                        "detailAddress": "广东省佛山市三水区进港大道与梅西大道交叉路口百利丰园区2号子仓",
+                        "phone": "13052248238"
+                    },
+                    "fragileTag": false,
+                    "productInventoryRegion": 1,
+                    "autoRemoveFromDeliveryPlatformTime": 3571883,
+                    "expectLatestDeliverTimeOrDefault": null,
+                    "expectLatestArrivalTimeOrDefault": null,
+                    "deliverUpcomingDelayTimeMillis": 43200000,
+                    "arrivalUpcomingDelayTimeMillis": 21600000,
+                    "deliverDisplayCountdownMillis": 3600000,
+                    "arrivalDisplayCountdownMillis": 3600000
+                },
+                "orderDetailVOList": [
+                    {
+                        "productSkuId": 9601578247,
+                        "productSkuImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-06-20/1687265305886-a45b6296a6344abe9229c9b7b44b4514-goods.jpeg"
+                        ],
+                        "productSkuPurchaseQuantity": 1,
+                        "skuDeliveryQuantityMaxLimit": 11,
+                        "color": "银色",
+                        "size": "",
+                        "productOriginalSkuId": 9601578247,
+                        "personalText": ""
+                    }
+                ]
+            }
+        ],
+        "total": 2
+    }
+}
+
+
+
+curl 'https://kuajing.pinduoduo.com/bgSongbird-api/supplier/deliverGoods/platform/createDeliveryOrderGroupSimpleByAddress' \
+  -H 'authority: kuajing.pinduoduo.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: zh-CN,zh;q=0.9' \
+  -H 'anti-content: 0aqAfqnygjPsBgE2F2JJhJqA6hVTbAPLw4OylrXr0IYhbMCzzZkUI7OAK11uiKuSEiju5D7P00KTNOKyDfp-91iKsbg0beDAIS9_CJrh-TdwV9vssEz8HQ_lAfibWWa3FJCApamPD_7okW5X07gqQycvYDyaG-Aw-3beM9E6WBNVdSy1Bms3c6pi65wmVN5kiaolnoQq6WhXaqVJrCJm2WiqH8gR7zWacfLoC4HL0GJBQKhXot0Aaw5LgFhP_xmEMTsNaFKtomgjc9pu2gB2V51KOiC2ljBDjxM39qkwJoTNimEBk_YXPklySOa5uLVyY46QI23zgfSLwpy0YPqw8F0G7_wpOPyR11la6lyyQgSuBhVB2cMfQirMxCl1vaJSuUV4tjecdzJUoLyDZzqnM3FJ0Esdidca7E_MhXYvdcnkHLOUi_OA9meFpVR1GxYb3AZLO82d49d5gpgC4aIEmUStwsf-UT-d4PBTFOLq8Q7JJd1kKWAymD-r0HrIBbEIZ0rwubDxDFOiCxWJNVGK-NO3psT_UH3Ssf_YsAUybEzjTrvLIbC2yQRKXfrkLODLFeh3a8ivAlHc6ZH7mx71VYDj9wfaVmGZYRC6-EuFARvpMNOoDOMfOuqvc1OOmwg8tKNM6pcQmMgeg_uAZokSBJzGkM11hhFpjraFJcMBmjj0dJPLtrMtNYoLIety8ZH5RLokMVK8Iz8r8xXzDeEU_aHhq-Qmn8GHbLuMZnF9srzL59EwflqF' \
+  -H 'cache-control: max-age=0' \
+  -H 'content-type: application/json' \
+  -H 'cookie: _bee=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; _f77=6f8352db-3d3b-4d22-840b-a7ea88876cc2; _a42=4f526040-7d9d-4151-bcec-b86be9d48bf9; api_uid=CmlqNWRGQQUDawBThno0Ag==; _nano_fp=XpEJX5Xxnpmjn0d8nC_gtoIgd1lWrNnWYuYin1UJ; rckk=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; ru1k=6f8352db-3d3b-4d22-840b-a7ea88876cc2; ru2k=4f526040-7d9d-4151-bcec-b86be9d48bf9; SUB_PASS_ID=eyJ0IjoieExxZm5Ud2VIcTVUeStPQTlPa1ZkcENCa0J3UnlTTVplNjJhQUhqZm85UXNDbWVUZm1yckU0b3NBTUJrZ0IveSIsInYiOjEsInMiOjEwMDAwLCJ1Ijo5MDQ2ODAyNDAxMzI5fQ==' \
+  -H 'mallid: 634418210372218' \
+  -H 'origin: https://kuajing.pinduoduo.com' \
+  -H 'referer: https://kuajing.pinduoduo.com/main/order-manager/shipping-desk/create' \
+  -H 'sec-ch-ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36' \
+  --data-raw '{"deliveryOrderCreateGroupList":[{"deliveryOrderCreateInfos":[{"deliverOrderDetailInfos":[{"deliverSkuNum":5,"productSkuId":7501861419},{"deliverSkuNum":5,"productSkuId":9835219048}],"subPurchaseOrderSn":"WB230808477534","packageInfos":[{"packageDetailSaveInfos":[{"skuNum":5,"productSkuId":7501861419}]},{"packageDetailSaveInfos":[{"skuNum":5,"productSkuId":9835219048}]}]}],"receiveAddressInfo":{"provinceName":"广东省","provinceCode":43000000000006,"cityName":"佛山市","cityCode":43000000000080,"districtName":"三水区","districtCode":43000000000749,"receiverName":"kachuang","detailAddress":"广东省佛山市三水区进港大道与梅西大道交叉路口百利丰园区2号子仓","phone":"13052248238"},"subWarehouseId":706629602510}]}' \
+  --compressed 

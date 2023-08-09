@@ -9,35 +9,16 @@ url = "https://kuajing.pinduoduo.com/oms/bg/venom/api/supplier/purchase/manager/
 
 
 payload = json.dumps({
-  "joinDeliveryPlatformRequestList": [
-    {
-      "subPurchaseOrderSn": "WB230807960080"
-    },
-    {
-      "subPurchaseOrderSn": "WB230807806868"
-    },
-    {
-      "subPurchaseOrderSn": "WB230807832343"
-    },
-    {
-      "subPurchaseOrderSn": "WB230807158872"
-    },
-    {
-      "subPurchaseOrderSn": "WB230807492336"
-    },
-    {
-      "subPurchaseOrderSn": "WB230807432592"
-    }
-  ]
+  "joinDeliveryPlatformRequestList": [{"subPurchaseOrderSn":"WB230808477534"},{"subPurchaseOrderSn":"WB230808050823"}]
 })
 headers = {
   'authority': 'kuajing.pinduoduo.com',
   'accept': '*/*',
   'accept-language': 'zh-CN,zh;q=0.9',
-  'anti-content': '0aqWfqlygiKy89v9T9o3hE5_vwTSFeN42JefMSdk6nnlIcOmIbbr7ZJFc5MDAeyLAHvckbGDh8FtFgJzQKtZU2S-eG5WTPFwi60mZeg_Dxhho1SIJVwwzt6Y5XoVitUNmJJNd8DPMd0MuylG0nYFx_3jSDlmFPjpMmKXY9CfmCKkEVdfmTyPUpUkP3R0y7lJG6CwvvUA363bxp1KU7y_SR9fEpztVxty9fNVRFds4S24-dwO8VlTwWHN27AV5evd-XFgoq9IRZcR9EJyuWwk3LUXL6PogzCweS35AmZ9-nIvQwUEBdGL4fD_kAV5SML3UdYBo8gHI0XufM3ueK50mU4TsqYYXxecbftJA3GH1RMqfTCQtVQQ7mmqCwhUKcS-06AjsxfJexFX0qhOfEVgK1hu-eIKIDu4uzvll7kp7MIBuL_Wby6_Joq7riorBNdks65ketuPeh58RJ1A91p1q4LTmx6FVExwXbSlsOopF1QYbjd77oPQIemZOf3EdYH4QfHjFpDiwAeVECxEpa7fXBXYv15Qihmd21Iv0yqIlhujqQrT2XHBQaT0QJCq_1LEBErj60uDMAiOkpzv0-2aPMce9N1vp7-HrCF6D6FJKBwl3wjFbFxFbiyMXr0MMJcyqG4gvY3YW2Kk-wJZkB2bStCTQtLiimpIMymG1C7mAEk8h0lmmLgnWbT6ham6ZrkKyYO0O_n5RtzhHoSlU85fZuI7RKX34N_OQGFBgpdOVt',
+  'anti-content': '0aqWfqnygjKgjgT9l4JRLE3W262VxA-QTV1MlxhnYRn1A9D1mzjaz1ty1lOqk1OOi-nFbjn24B4DP_51wp1_EIPIkp8F-K4mzKvDH7bWNUsVIye5QV0w_OjLOsfN_aq9iiUWBRBn3TZZ2JWXuPzbCaoZUYuO8w3T-iiku5b3_SAT4iE6c62maxkI_opBRZTJ_TcKDRZTfRZDJ4GHIlHLtdnZHqg4pIBQKk3lKyRVBzLU439Z739384nmIP-Rg5oCBCPssp1p7T4NU4GGOgOog0oaqPXmYfFgBkV66j0_J9QeuGlTTdcOaoa4kjBNYNEdF26yWoO7kZ4wissi2ILOMdkJ-EkXOGWVWIzwmULFqsrDbCJRQ73JehgwSCdn2l19YaC_NciIZLxfjTiS0Ear_gUYOA-vWWnksZf8htqGFudzYKkdCwT-FxRG131qWjuJiDRhysaW0q_1as0uKOlMRUq5g3wFnq_tgS6u5J2aHhN_NLI87bMEJTkkjvnFJMS7W4O9wxM0tTbS3Np2moTxB623zU5X536QAWD_BZtT0SvIkINdJGmfwASrzYJAxJAY8-Ipl6D-s0XIlWNyDTwvJZwxPLjbgrP1RzFRoAfYZ1X6lbPlKXkQw6oybvaKRbiBpBnP3BaI9z_QUJTMR3vAmBSPeeCnbCOej3D_UsnpWspIISEDVOu8RznDe8RaQB8rhLWTeG9T7idnbpz_6QYrWyYYl7tLHMGYNFCr4phixZgFrPe',
   'cache-control': 'max-age=0',
   'content-type': 'application/json',
-  'cookie': '_bee=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; _f77=6f8352db-3d3b-4d22-840b-a7ea88876cc2; _a42=4f526040-7d9d-4151-bcec-b86be9d48bf9; api_uid=CmlqNWRGQQUDawBThno0Ag==; _nano_fp=XpEJX5Xxnpmjn0d8nC_gtoIgd1lWrNnWYuYin1UJ; rckk=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; ru1k=6f8352db-3d3b-4d22-840b-a7ea88876cc2; ru2k=4f526040-7d9d-4151-bcec-b86be9d48bf9; SUB_PASS_ID=eyJ0IjoiQWs1T1RjWXljN00yaCthNGU0SHkrNWQvS1B5V1BNcVIzbnNhZ1I5QWpvU3R2RzFFNmZtWGI5K25mSUVzU0FwRyIsInYiOjEsInMiOjEwMDAwLCJ1Ijo5MDQ2ODAyNDAxMzI5fQ==',
+  'cookie': '_bee=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; _f77=6f8352db-3d3b-4d22-840b-a7ea88876cc2; _a42=4f526040-7d9d-4151-bcec-b86be9d48bf9; api_uid=CmlqNWRGQQUDawBThno0Ag==; _nano_fp=XpEJX5Xxnpmjn0d8nC_gtoIgd1lWrNnWYuYin1UJ; rckk=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; ru1k=6f8352db-3d3b-4d22-840b-a7ea88876cc2; ru2k=4f526040-7d9d-4151-bcec-b86be9d48bf9; SUB_PASS_ID=eyJ0IjoieExxZm5Ud2VIcTVUeStPQTlPa1ZkcENCa0J3UnlTTVplNjJhQUhqZm85UXNDbWVUZm1yckU0b3NBTUJrZ0IveSIsInYiOjEsInMiOjEwMDAwLCJ1Ijo5MDQ2ODAyNDAxMzI5fQ==',
   'mallid': '634418210372218',
   'origin': 'https://kuajing.pinduoduo.com',
   'referer': 'https://kuajing.pinduoduo.com/main/order-manage',
@@ -78,7 +59,7 @@ def func():
 
   print('加入发货台成功！！！！程序结束')
 
-
+func()
 
 
   # 获取现在时间
