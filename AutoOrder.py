@@ -73,6 +73,7 @@ def appendJoinDeliveryPlatformRequestList(subPurchaseOrderSnList):
   return joinDeliveryPlatformRequestList
 
 
+# 批量抢发货台
 def batchJoinDeliveryOrderPlatformV2(subPurchaseOrderSnList):
   url = "https://kuajing.pinduoduo.com/oms/bg/venom/api/supplier/purchase/manager/batchJoinDeliveryOrderPlatformV2"
 
@@ -105,11 +106,6 @@ def batchJoinDeliveryOrderPlatformV2(subPurchaseOrderSnList):
 
 
   print('加入发货台成功！！！！程序结束')
-
-
-
-
-
 
   # 获取现在时间
 now_time = datetime.datetime.now()
