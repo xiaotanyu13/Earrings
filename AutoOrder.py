@@ -109,6 +109,8 @@ def batchJoinDeliveryOrderPlatformV2(subPurchaseOrderSnList):
 
 
 
+
+
   # 获取现在时间
 now_time = datetime.datetime.now()
 # 获取明天时间
