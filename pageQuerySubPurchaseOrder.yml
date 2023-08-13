@@ -40,7 +40,7 @@ curl 'https://kuajing.pinduoduo.com/bgSongbird-api/supplier/deliverGoods/platfor
                     "skcExtCode": "",
                     "isClothCategory": false,
                     "urgencyType": 0,
-                    "isCustomProduct": false,
+                    "isCustomProduct": false, 
                     "productName": null,
                     "subWarehouseId": 706629602510,
                     "subWarehouseName": "三水百利丰2号子仓",
@@ -173,3 +173,541 @@ curl 'https://kuajing.pinduoduo.com/bgSongbird-api/supplier/deliverGoods/platfor
   -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36' \
   --data-raw '{"deliveryOrderCreateGroupList":[{"deliveryOrderCreateInfos":[{"deliverOrderDetailInfos":[{"deliverSkuNum":5,"productSkuId":7501861419},{"deliverSkuNum":5,"productSkuId":9835219048}],"subPurchaseOrderSn":"WB230808477534","packageInfos":[{"packageDetailSaveInfos":[{"skuNum":5,"productSkuId":7501861419}]},{"packageDetailSaveInfos":[{"skuNum":5,"productSkuId":9835219048}]}]}],"receiveAddressInfo":{"provinceName":"广东省","provinceCode":43000000000006,"cityName":"佛山市","cityCode":43000000000080,"districtName":"三水区","districtCode":43000000000749,"receiverName":"kachuang","detailAddress":"广东省佛山市三水区进港大道与梅西大道交叉路口百利丰园区2号子仓","phone":"13052248238"},"subWarehouseId":706629602510}]}' \
   --compressed 
+
+
+
+
+
+
+
+  {
+    "success": true,
+    "errorCode": 1000000,
+    "errorMsg": null,
+    "result": {
+        "list": [
+            {
+                "subPurchaseOrderBasicVO": {
+                    "subPurchaseOrderSn": "WB230809686328",
+                    "productSkcId": 7494736485,
+                    "productSkcPicture": "https://kj-img.pddpic.com/product/Fancyalgo/VirtualModelMatting/7c6e9d377f89b90d97e493d407e3965d.jpg",
+                    "purchaseStockType": 0,
+                    "settlementType": 1,
+                    "isFirst": true,
+                    "supplierId": 634418210372218,
+                    "purchaseTime": 1691546609203,
+                    "purchaseQuantity": 10,
+                    "skcExtCode": "BH0001",
+                    "isClothCategory": false,
+                    "urgencyType": 0,
+                    "isCustomProduct": false,
+                    "productName": null,
+                    "subWarehouseId": 360578034034,
+                    "subWarehouseName": "从化普洛斯1号子仓",
+                    "receiveAddressInfo": {
+                        "provinceName": "广东省",
+                        "provinceCode": 43000000000006,
+                        "cityName": "广州市",
+                        "cityCode": 43000000000076,
+                        "districtName": "从化区",
+                        "districtCode": 43000000000692,
+                        "receiverName": "mengtuoke",
+                        "detailAddress": "广东省广州市从化区明珠大道北城郊街道李屋逸仙生物科技广州新建厂房项目前方路口右转京东从化物流园对面",
+                        "phone": "17316353197"
+                    },
+                    "fragileTag": false,
+                    "productInventoryRegion": 1,
+                    "autoRemoveFromDeliveryPlatformTime": 3472186,
+                    "expectLatestDeliverTimeOrDefault": null,
+                    "expectLatestArrivalTimeOrDefault": null,
+                    "deliverUpcomingDelayTimeMillis": 43200000,
+                    "arrivalUpcomingDelayTimeMillis": 21600000,
+                    "deliverDisplayCountdownMillis": 3600000,
+                    "arrivalDisplayCountdownMillis": 3600000
+                },
+                "orderDetailVOList": [
+                    {
+                        "productSkuId": 8172772197,
+                        "productSkuImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-07-22/1690029905576-0ce470019a8f43008fac93eb7a6d2efb-goods.jpeg"
+                        ],
+                        "productSkuPurchaseQuantity": 10,
+                        "skuDeliveryQuantityMaxLimit": 20,
+                        "color": "BH0001-1",
+                        "size": "",
+                        "productOriginalSkuId": 8172772197,
+                        "personalText": ""
+                    }
+                ]
+            },
+            {
+                "subPurchaseOrderBasicVO": {
+                    "subPurchaseOrderSn": "WB230809725532",
+                    "productSkcId": 7625432258,
+                    "productSkcPicture": "https://kj-img.pddpic.com/product/open/2023-07-23/1690096203750-5f16fa70189946e2a6ef417c8e4a6c5b-goods.jpeg",
+                    "purchaseStockType": 0,
+                    "settlementType": 1,
+                    "isFirst": true,
+                    "supplierId": 634418210372218,
+                    "purchaseTime": 1691546585342,
+                    "purchaseQuantity": 15,
+                    "skcExtCode": "",
+                    "isClothCategory": false,
+                    "urgencyType": 0,
+                    "isCustomProduct": false,
+                    "productName": null,
+                    "subWarehouseId": 360578034034,
+                    "subWarehouseName": "从化普洛斯1号子仓",
+                    "receiveAddressInfo": {
+                        "provinceName": "广东省",
+                        "provinceCode": 43000000000006,
+                        "cityName": "广州市",
+                        "cityCode": 43000000000076,
+                        "districtName": "从化区",
+                        "districtCode": 43000000000692,
+                        "receiverName": "mengtuoke",
+                        "detailAddress": "广东省广州市从化区明珠大道北城郊街道李屋逸仙生物科技广州新建厂房项目前方路口右转京东从化物流园对面",
+                        "phone": "17316353197"
+                    },
+                    "fragileTag": false,
+                    "productInventoryRegion": 1,
+                    "autoRemoveFromDeliveryPlatformTime": 3472179,
+                    "expectLatestDeliverTimeOrDefault": null,
+                    "expectLatestArrivalTimeOrDefault": null,
+                    "deliverUpcomingDelayTimeMillis": 43200000,
+                    "arrivalUpcomingDelayTimeMillis": 21600000,
+                    "deliverDisplayCountdownMillis": 3600000,
+                    "arrivalDisplayCountdownMillis": 3600000
+                },
+                "orderDetailVOList": [
+                    {
+                        "productSkuId": 2972072547,
+                        "productSkuImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-07-23/1690096214711-2303cf2c0c274fa8b89043890a90f779-goods.jpeg"
+                        ],
+                        "productSkuPurchaseQuantity": 5,
+                        "skuDeliveryQuantityMaxLimit": 15,
+                        "color": "51660",
+                        "size": "",
+                        "productOriginalSkuId": 2972072547,
+                        "personalText": ""
+                    },
+                    {
+                        "productSkuId": 3019157548,
+                        "productSkuImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-07-23/1690096214507-f31b326193284c28a5aa8b684d1afdac-goods.jpeg"
+                        ],
+                        "productSkuPurchaseQuantity": 5,
+                        "skuDeliveryQuantityMaxLimit": 15,
+                        "color": "54677",
+                        "size": "",
+                        "productOriginalSkuId": 3019157548,
+                        "personalText": ""
+                    },
+                    {
+                        "productSkuId": 6950088370,
+                        "productSkuImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-07-23/1690096214946-e64e2f5b13794f9c952ad99b2e2be990-goods.jpeg"
+                        ],
+                        "productSkuPurchaseQuantity": 5,
+                        "skuDeliveryQuantityMaxLimit": 15,
+                        "color": "51654",
+                        "size": "",
+                        "productOriginalSkuId": 6950088370,
+                        "personalText": ""
+                    }
+                ]
+            },
+            {
+                "subPurchaseOrderBasicVO": {
+                    "subPurchaseOrderSn": "WB230809686301",
+                    "productSkcId": 2258598208,
+                    "productSkcPicture": "https://kj-img.pddpic.com/product/open/2023-07-29/1690631536998-d3c2937b449b4731a6ac298c28d1a93e-goods.jpeg",
+                    "purchaseStockType": 0,
+                    "settlementType": 1,
+                    "isFirst": true,
+                    "supplierId": 634418210372218,
+                    "purchaseTime": 1691546573986,
+                    "purchaseQuantity": 15,
+                    "skcExtCode": "",
+                    "isClothCategory": false,
+                    "urgencyType": 0,
+                    "isCustomProduct": false,
+                    "productName": null,
+                    "subWarehouseId": 360578034034,
+                    "subWarehouseName": "从化普洛斯1号子仓",
+                    "receiveAddressInfo": {
+                        "provinceName": "广东省",
+                        "provinceCode": 43000000000006,
+                        "cityName": "广州市",
+                        "cityCode": 43000000000076,
+                        "districtName": "从化区",
+                        "districtCode": 43000000000692,
+                        "receiverName": "mengtuoke",
+                        "detailAddress": "广东省广州市从化区明珠大道北城郊街道李屋逸仙生物科技广州新建厂房项目前方路口右转京东从化物流园对面",
+                        "phone": "17316353197"
+                    },
+                    "fragileTag": false,
+                    "productInventoryRegion": 1,
+                    "autoRemoveFromDeliveryPlatformTime": 3472175,
+                    "expectLatestDeliverTimeOrDefault": null,
+                    "expectLatestArrivalTimeOrDefault": null,
+                    "deliverUpcomingDelayTimeMillis": 43200000,
+                    "arrivalUpcomingDelayTimeMillis": 21600000,
+                    "deliverDisplayCountdownMillis": 3600000,
+                    "arrivalDisplayCountdownMillis": 3600000
+                },
+                "orderDetailVOList": [
+                    {
+                        "productSkuId": 3577330964,
+                        "productSkuImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-07-29/1690631544872-490c97e43a9f4272945a0caaa2bcb246-goods.jpeg"
+                        ],
+                        "productSkuPurchaseQuantity": 15,
+                        "skuDeliveryQuantityMaxLimit": 25,
+                        "color": "E1543-1",
+                        "size": "",
+                        "productOriginalSkuId": 3577330964,
+                        "personalText": ""
+                    }
+                ]
+            },
+            {
+                "subPurchaseOrderBasicVO": {
+                    "subPurchaseOrderSn": "WB230809451266",
+                    "productSkcId": 2070386059,
+                    "productSkcPicture": "https://kj-img.pddpic.com/product/open/2023-08-01/1690885397731-cabefb7492d14092851b0ddc14c30461-goods.jpeg",
+                    "purchaseStockType": 0,
+                    "settlementType": 1,
+                    "isFirst": true,
+                    "supplierId": 634418210372218,
+                    "purchaseTime": 1691546550921,
+                    "purchaseQuantity": 30,
+                    "skcExtCode": "",
+                    "isClothCategory": false,
+                    "urgencyType": 0,
+                    "isCustomProduct": false,
+                    "productName": null,
+                    "subWarehouseId": 360578034034,
+                    "subWarehouseName": "从化普洛斯1号子仓",
+                    "receiveAddressInfo": {
+                        "provinceName": "广东省",
+                        "provinceCode": 43000000000006,
+                        "cityName": "广州市",
+                        "cityCode": 43000000000076,
+                        "districtName": "从化区",
+                        "districtCode": 43000000000692,
+                        "receiverName": "mengtuoke",
+                        "detailAddress": "广东省广州市从化区明珠大道北城郊街道李屋逸仙生物科技广州新建厂房项目前方路口右转京东从化物流园对面",
+                        "phone": "17316353197"
+                    },
+                    "fragileTag": false,
+                    "productInventoryRegion": 1,
+                    "autoRemoveFromDeliveryPlatformTime": 3472189,
+                    "expectLatestDeliverTimeOrDefault": null,
+                    "expectLatestArrivalTimeOrDefault": null,
+                    "deliverUpcomingDelayTimeMillis": 43200000,
+                    "arrivalUpcomingDelayTimeMillis": 21600000,
+                    "deliverDisplayCountdownMillis": 3600000,
+                    "arrivalDisplayCountdownMillis": 3600000
+                },
+                "orderDetailVOList": [
+                    {
+                        "productSkuId": 2027064863,
+                        "productSkuImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-08-01/1690885410520-9c91cb2d9c1e48a3973a661562632396-goods.jpeg"
+                        ],
+                        "productSkuPurchaseQuantity": 10,
+                        "skuDeliveryQuantityMaxLimit": 20,
+                        "color": "E1530-1",
+                        "size": "",
+                        "productOriginalSkuId": 2027064863,
+                        "personalText": ""
+                    },
+                    {
+                        "productSkuId": 2450313316,
+                        "productSkuImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-08-01/1690885410250-c619863fd3f94f8eb60af74467b7da16-goods.jpeg"
+                        ],
+                        "productSkuPurchaseQuantity": 10,
+                        "skuDeliveryQuantityMaxLimit": 20,
+                        "color": "E1529-1",
+                        "size": "",
+                        "productOriginalSkuId": 2450313316,
+                        "personalText": ""
+                    },
+                    {
+                        "productSkuId": 5999348335,
+                        "productSkuImgUrlList": [
+                            "https://kj-img.pddpic.com/product/open/2023-08-01/1690885410005-b9e027d771d9474690a2e3dd42553f29-goods.jpeg"
+                        ],
+                        "productSkuPurchaseQuantity": 10,
+                        "skuDeliveryQuantityMaxLimit": 20,
+                        "color": "E1528-1",
+                        "size": "",
+                        "productOriginalSkuId": 5999348335,
+                        "personalText": ""
+                    }
+                ]
+            }
+        ],
+        "total": 4
+    }
+}
+
+
+
+
+// 查地址
+curl 'https://kuajing.pinduoduo.com/bgSongbird-api/supplier/deliverGoods/platform/querySubPurchaseOrderGroupByReceiveAddress' \
+  -H 'authority: kuajing.pinduoduo.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: zh-CN,zh;q=0.9' \
+  -H 'anti-content: 0aqWtqlyBifvjgu2s0HTWWRi2kgi4pJZy4ZJdsruijl268B1UMqt1cTuAch8JzJijLJh3YjOF1O4UlSZAUX-KcO-flwLI8Eg_727gB5zowwvA-0n9VXPYKsrdS5sQ2NCKCYUqiIK4ZLDCugnNJuoohd11bjdIfki43X7g9Bz9AuwJFyC1PVQOIZyVr6y4T9ln6lpa_mi2pI9XrwORV1efvhKjE9gJKWmw47LTcKi0X2TEK2YwfIi9Qy74_e13C_uN9uIIQTV4cbPMN4PhnDY1uf-ogXE9pNapixAwWoNGim8jUBzRW8NwPC9DYZYrV6WfNJN6o9tjYPEaPCN6RuX_lObUBM2U0Gd0tzwfb1n0v93XgQ89RDIn9scVbfEMsncIJvfkLT13z2YeZq-Mkgy5e1XMaMRfp56mqztPJe3-QIHIct23SvOgycCBNNj3rAN8lEzLldgtqp7x2FHyhpkuS-g4zkinVcKcT1FIvd8CkwsMD3IfxKfylvxhajY8hLHo9WdM4mVhw3uYUBRVQOGP24GyO7tPuHM3PuY7qPkW-Iv0JdKiMNxiE4hpp8IDuHyPoNfGcHukEcznlxO3SjxktMwhzBFAafVY8-SB7p8cNU8DDwAmwr39--04OxD9V_HRgrPmElei6fI9WdC5nbF2rw0X6sQsCCQLWbCNW7vMjmzsMvkIOQ5X4yY3CwZsY2F3jiCCjP-QP0VkZZ4ZJ_cHmGZeulb8RHWiA7I0iLI9gF6gpdOVs' \
+  -H 'cache-control: max-age=0' \
+  -H 'content-type: application/json' \
+  -H 'cookie: _bee=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; _f77=6f8352db-3d3b-4d22-840b-a7ea88876cc2; _a42=4f526040-7d9d-4151-bcec-b86be9d48bf9; api_uid=CmlqNWRGQQUDawBThno0Ag==; _nano_fp=XpEJX5Xxnpmjn0d8nC_gtoIgd1lWrNnWYuYin1UJ; rckk=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; ru1k=6f8352db-3d3b-4d22-840b-a7ea88876cc2; ru2k=4f526040-7d9d-4151-bcec-b86be9d48bf9; SUB_PASS_ID=eyJ0Ijoiblh0Zk1KYWE2MHVEdGV5M3E4b1R0U0swbHBLZ1JCNERscUozQ3VNN2k1ZklaYmpPWnJ2T3dBMC9PbEVaOGIwaSIsInYiOjEsInMiOjEwMDAwLCJ1Ijo5MDQ2ODAyNDAxMzI5fQ==' \
+  -H 'mallid: 634418210372218' \
+  -H 'origin: https://kuajing.pinduoduo.com' \
+  -H 'referer: https://kuajing.pinduoduo.com/main/order-manager/shipping-desk' \
+  -H 'sec-ch-ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36' \
+  --data-raw '{"subPurchaseOrderSnList":["WB230809686328","WB230809725532","WB230809686301","WB230809451266"]}' \
+  --compressed
+
+
+
+{
+    "success": true,
+    "errorCode": 1000000,
+    "errorMsg": null,
+    "result": {
+        "subPurchaseReceiveAddressGroups": [
+            {
+                "subPurchaseOrderSnList": [
+                    "WB230809451266",
+                    "WB230809686301",
+                    "WB230809686328",
+                    "WB230809725532"
+                ],
+                "subPurchaseOrderBasicVOList": [
+                    {
+                        "subPurchaseOrderSn": "WB230809451266",
+                        "productSkcId": null,
+                        "productSkcPicture": null,
+                        "purchaseStockType": 0,
+                        "settlementType": null,
+                        "isFirst": null,
+                        "supplierId": null,
+                        "purchaseTime": null,
+                        "purchaseQuantity": null,
+                        "skcExtCode": null,
+                        "isClothCategory": null,
+                        "urgencyType": 0,
+                        "isCustomProduct": null,
+                        "productName": null,
+                        "subWarehouseId": null,
+                        "subWarehouseName": null,
+                        "receiveAddressInfo": null,
+                        "fragileTag": null,
+                        "productInventoryRegion": 1,
+                        "autoRemoveFromDeliveryPlatformTime": null,
+                        "expectLatestDeliverTimeOrDefault": null,
+                        "expectLatestArrivalTimeOrDefault": null,
+                        "deliverUpcomingDelayTimeMillis": 43200000,
+                        "arrivalUpcomingDelayTimeMillis": 21600000,
+                        "deliverDisplayCountdownMillis": 3600000,
+                        "arrivalDisplayCountdownMillis": 3600000
+                    },
+                    {
+                        "subPurchaseOrderSn": "WB230809686301",
+                        "productSkcId": null,
+                        "productSkcPicture": null,
+                        "purchaseStockType": 0,
+                        "settlementType": null,
+                        "isFirst": null,
+                        "supplierId": null,
+                        "purchaseTime": null,
+                        "purchaseQuantity": null,
+                        "skcExtCode": null,
+                        "isClothCategory": null,
+                        "urgencyType": 0,
+                        "isCustomProduct": null,
+                        "productName": null,
+                        "subWarehouseId": null,
+                        "subWarehouseName": null,
+                        "receiveAddressInfo": null,
+                        "fragileTag": null,
+                        "productInventoryRegion": 1,
+                        "autoRemoveFromDeliveryPlatformTime": null,
+                        "expectLatestDeliverTimeOrDefault": null,
+                        "expectLatestArrivalTimeOrDefault": null,
+                        "deliverUpcomingDelayTimeMillis": 43200000,
+                        "arrivalUpcomingDelayTimeMillis": 21600000,
+                        "deliverDisplayCountdownMillis": 3600000,
+                        "arrivalDisplayCountdownMillis": 3600000
+                    },
+                    {
+                        "subPurchaseOrderSn": "WB230809686328",
+                        "productSkcId": null,
+                        "productSkcPicture": null,
+                        "purchaseStockType": 0,
+                        "settlementType": null,
+                        "isFirst": null,
+                        "supplierId": null,
+                        "purchaseTime": null,
+                        "purchaseQuantity": null,
+                        "skcExtCode": null,
+                        "isClothCategory": null,
+                        "urgencyType": 0,
+                        "isCustomProduct": null,
+                        "productName": null,
+                        "subWarehouseId": null,
+                        "subWarehouseName": null,
+                        "receiveAddressInfo": null,
+                        "fragileTag": null,
+                        "productInventoryRegion": 1,
+                        "autoRemoveFromDeliveryPlatformTime": null,
+                        "expectLatestDeliverTimeOrDefault": null,
+                        "expectLatestArrivalTimeOrDefault": null,
+                        "deliverUpcomingDelayTimeMillis": 43200000,
+                        "arrivalUpcomingDelayTimeMillis": 21600000,
+                        "deliverDisplayCountdownMillis": 3600000,
+                        "arrivalDisplayCountdownMillis": 3600000
+                    },
+                    {
+                        "subPurchaseOrderSn": "WB230809725532",
+                        "productSkcId": null,
+                        "productSkcPicture": null,
+                        "purchaseStockType": 0,
+                        "settlementType": null,
+                        "isFirst": null,
+                        "supplierId": null,
+                        "purchaseTime": null,
+                        "purchaseQuantity": null,
+                        "skcExtCode": null,
+                        "isClothCategory": null,
+                        "urgencyType": 0,
+                        "isCustomProduct": null,
+                        "productName": null,
+                        "subWarehouseId": null,
+                        "subWarehouseName": null,
+                        "receiveAddressInfo": null,
+                        "fragileTag": null,
+                        "productInventoryRegion": 1,
+                        "autoRemoveFromDeliveryPlatformTime": null,
+                        "expectLatestDeliverTimeOrDefault": null,
+                        "expectLatestArrivalTimeOrDefault": null,
+                        "deliverUpcomingDelayTimeMillis": 43200000,
+                        "arrivalUpcomingDelayTimeMillis": 21600000,
+                        "deliverDisplayCountdownMillis": 3600000,
+                        "arrivalDisplayCountdownMillis": 3600000
+                    }
+                ],
+                "receiveAddressInfo": {
+                    "provinceName": "广东省",
+                    "provinceCode": 43000000000006,
+                    "cityName": "广州市",
+                    "cityCode": 43000000000076,
+                    "districtName": "从化区",
+                    "districtCode": 43000000000692,
+                    "receiverName": "mengtuoke",
+                    "detailAddress": "广东省广州市从化区明珠大道北城郊街道李屋逸仙生物科技广州新建厂房项目前方路口右转京东从化物流园对面",
+                    "phone": "17316353197"
+                },
+                "subWarehouseId": 360578034034
+            }
+        ]
+    }
+}
+
+
+
+  // 查发货地址
+  curl 'https://kuajing.pinduoduo.com/bgSongbird-api/supplier/deliverGoods/platform/querySupplierAddressInfo' \
+  -H 'authority: kuajing.pinduoduo.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: zh-CN,zh;q=0.9' \
+  -H 'anti-content: 0aqWtxUkM_VeQqxOnVKGpFKccXEYq3lYnHnpiuHqnxXGuyPfHJF2BYiJndnTT80f592hvp2QgvStrzfBy5-t1uaHP8YhuqZwWwg-bWuKe6khm6_IDM_1k6thD6BVDLZMD7ZID73Kk6_Im-twflg_QROxCndGYnH0xFINSJYIYtYuZXjdCvnBgd0VAm--xuHRfvK64HK6zVH99EndGazGOxnl4vu0a1qvOldFraYp2_lUuJjUnyvlXaiwSxiA4_qnHldBAxdFrTYl_7unbHqujTjgw84tKGVwS457Mt_t-_XVyksVDcEZ6-s_z34m-DWwe1BSSlNWFMRkJIGev3bFziWW6_1k6DWeDZE4isItRUZgrm5jtGpSBdibOqpzBjws0LwunrlGCwXgJfTg9xjppxJ0OSfqYAadXWjEzMYUmPYjUIxMxue96a9ZoFe_tQq2' \
+  -H 'cache-control: max-age=0' \
+  -H 'content-type: application/json' \
+  -H 'cookie: _bee=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; _f77=6f8352db-3d3b-4d22-840b-a7ea88876cc2; _a42=4f526040-7d9d-4151-bcec-b86be9d48bf9; api_uid=CmlqNWRGQQUDawBThno0Ag==; _nano_fp=XpEJX5Xxnpmjn0d8nC_gtoIgd1lWrNnWYuYin1UJ; rckk=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; ru1k=6f8352db-3d3b-4d22-840b-a7ea88876cc2; ru2k=4f526040-7d9d-4151-bcec-b86be9d48bf9; SUB_PASS_ID=eyJ0Ijoiblh0Zk1KYWE2MHVEdGV5M3E4b1R0U0swbHBLZ1JCNERscUozQ3VNN2k1ZklaYmpPWnJ2T3dBMC9PbEVaOGIwaSIsInYiOjEsInMiOjEwMDAwLCJ1Ijo5MDQ2ODAyNDAxMzI5fQ==' \
+  -H 'mallid: 634418210372218' \
+  -H 'origin: https://kuajing.pinduoduo.com' \
+  -H 'referer: https://kuajing.pinduoduo.com/main/order-manager/shipping-desk/create' \
+  -H 'sec-ch-ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36' \
+  --data-raw '{}' \
+  --compressed
+
+
+  {
+    "success": true,
+    "errorCode": 1000000,
+    "errorMsg": null,
+    "result": {
+        "supplierAddressList": [
+            {
+                "id": 4159044401070,
+                "addressLabel": "成品仓库",
+                "provinceName": "浙江省",
+                "provinceCode": 43000000000031,
+                "cityName": "金华市",
+                "cityCode": 43000000000386,
+                "districtName": "义乌市",
+                "districtCode": 43000000003409,
+                "addressDetail": "下江益23栋5单元",
+                "isDefault": true,
+                "warehouseType": 1
+            }
+        ]
+    }
+}
+
+
+
+curl 'https://kuajing.pinduoduo.com/bgSongbird-api/supplier/deliverGoods/platform/createDeliveryOrderGroupSimpleByAddress' \
+  -H 'authority: kuajing.pinduoduo.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: zh-CN,zh;q=0.9' \
+  -H 'anti-content: 0aqWtqlyBBKyy2e49g8nZ9QlyPs1xsCZ23OFHllMUK6Mjv8ljWuAI_rFcU6lMhDk6JIQFsKQfmG-f-wvtszIN5uJWKLX7bVUTFa4t-nCP4r8B_Ns_N6GHGZLPJVONVAJQRQrrOr9KYm3vGYhiLVn13W8sDh1um5U-9bixd-nszxMMGjewcE2l76HJV_OnzNxMh2BWedJVwOnZ9aptz5SSMTragMMPzu2iw1EVfMMd7N2mUtonv924oK4mr8MQf_IhlrVBBvxCQ25L50zaggD4XEkqZ6ysTN0S2BTu2C27Tyjih26xdEDx_BA4WE2mA_0uN2pMVuXaPhvLagt55R233wUn3pXlg5nM0kcUNgw4rXVP8Vm3gnN39r4z-QQKLATudYIkYDH3OtYcmlWnL5FbckDdLcL5kokRVR3o4kYd0yUtuh7OxxzmrvYHv7AM9hr6VFCFMvCwBkBK-T-QpV-yZ4fVegtsVfQE55y4IiWIONHVr1waTholzcSAulwRzBdM2i0SJQ6OqqbwZX4s3KkhM436iMN3G9578YmvldcglAhOQXoVgSFjZTzyWFR9V4jc4d6chhxzt7sxcGkIqyxZl0mbd4S-XTIZSimyo4sr7TAFmBDlLyy98MstClyQMsexjXxfMZknGMy1CHyyJp8JS1oqoPhP9P-cvuxigbHQ3KEK5acgWvlVm0qOS8S1rWfRHVbvUpcfp8_soXxf7SrOhHvJoWoEmi2AO-4Lve_tQq9' \
+  -H 'cache-control: max-age=0' \
+  -H 'content-type: application/json' \
+  -H 'cookie: _bee=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; _f77=6f8352db-3d3b-4d22-840b-a7ea88876cc2; _a42=4f526040-7d9d-4151-bcec-b86be9d48bf9; api_uid=CmlqNWRGQQUDawBThno0Ag==; _nano_fp=XpEJX5Xxnpmjn0d8nC_gtoIgd1lWrNnWYuYin1UJ; rckk=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; ru1k=6f8352db-3d3b-4d22-840b-a7ea88876cc2; ru2k=4f526040-7d9d-4151-bcec-b86be9d48bf9; SUB_PASS_ID=eyJ0Ijoiblh0Zk1KYWE2MHVEdGV5M3E4b1R0U0swbHBLZ1JCNERscUozQ3VNN2k1ZklaYmpPWnJ2T3dBMC9PbEVaOGIwaSIsInYiOjEsInMiOjEwMDAwLCJ1Ijo5MDQ2ODAyNDAxMzI5fQ==' \
+  -H 'mallid: 634418210372218' \
+  -H 'origin: https://kuajing.pinduoduo.com' \
+  -H 'referer: https://kuajing.pinduoduo.com/main/order-manager/shipping-desk/create' \
+  -H 'sec-ch-ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36' \
+  --data-raw '{"deliveryOrderCreateGroupList":[{"deliveryOrderCreateInfos":[{"deliverOrderDetailInfos":[{"deliverSkuNum":10,"productSkuId":2027064863},{"deliverSkuNum":10,"productSkuId":2450313316},{"deliverSkuNum":10,"productSkuId":5999348335}],"subPurchaseOrderSn":"WB230809451266","packageInfos":[{"packageDetailSaveInfos":[{"skuNum":10,"productSkuId":2027064863}]},{"packageDetailSaveInfos":[{"skuNum":10,"productSkuId":2450313316}]},{"packageDetailSaveInfos":[{"skuNum":10,"productSkuId":5999348335}]}]},{"deliverOrderDetailInfos":[{"deliverSkuNum":15,"productSkuId":3577330964}],"subPurchaseOrderSn":"WB230809686301","packageInfos":[{"packageDetailSaveInfos":[{"skuNum":15,"productSkuId":3577330964}]}]},{"deliverOrderDetailInfos":[{"deliverSkuNum":10,"productSkuId":8172772197}],"subPurchaseOrderSn":"WB230809686328","packageInfos":[{"packageDetailSaveInfos":[{"skuNum":10,"productSkuId":8172772197}]}]},{"deliverOrderDetailInfos":[{"deliverSkuNum":5,"productSkuId":2972072547},{"deliverSkuNum":5,"productSkuId":3019157548},{"deliverSkuNum":5,"productSkuId":6950088370}],"subPurchaseOrderSn":"WB230809725532","packageInfos":[{"packageDetailSaveInfos":[{"skuNum":5,"productSkuId":2972072547}]},{"packageDetailSaveInfos":[{"skuNum":5,"productSkuId":3019157548}]},{"packageDetailSaveInfos":[{"skuNum":5,"productSkuId":6950088370}]}]}],"receiveAddressInfo":{"provinceName":"广东省","provinceCode":43000000000006,"cityName":"广州市","cityCode":43000000000076,"districtName":"从化区","districtCode":43000000000692,"receiverName":"mengtuoke","detailAddress":"广东省广州市从化区明珠大道北城郊街道李屋逸仙生物科技广州新建厂房项目前方路口右转京东从化物流园对面","phone":"17316353197"},"subWarehouseId":360578034034}]}' \
+  --compressed
+
+
+
+
+
+  0aqWtxUkM_VeBKVQtJ3GCTv0YfntR_Qu4xSESAfZhsQxqHMfy0LMCn4yqyVoeZYsclPfX8dNqxUR8skZS7uOuiTqd4NbtUfR2AfiJ2Nekxy65Uno1x1Bk0RqSDPLp0wrMlHkXb61BRxiUG92uMYYMlhQpTgynLLVSF7FPr6O1B3s32RxHGAR_5wEOhq-9FhFtrgO193030WaSGfhWhOgnno3cTn0bgynRmXYTh4igEMMNaJVCwzfTympBiMoOvNNkanaaEM8NaHVTw_3HonRbgy4hDPYBW2iBXMxNqoVCwOKsumYNOaVgaNPvVHVZ59VgrCiyCzanfjKLpFKlZGEYRrlgsHnqiAHq2YXLvyPbUyFolYiEndn9TyNbcpvKcyuxTYscld59pXnYfXVfHpAzlp5rTjFbcpsycp6ADR8zYMy0gqVucgYOU2xnX08lXnjlUfxlXwysXEynYpyldpJlY2yldvfGg4fWGjoOLNxnHnqFX65SYC9GHnStxsCzni2a7luGgARWEB0SbZ0Ke6WVm70F24nxlHZwKYsyyBxbG0Sldaj0doY4tiv8lYT7nY4wjoUx4CPx8BSnYOz2EJjQdOCsyB3bq59lxvCvlgKfFVI40uMtke-2SzyI2_vWgIB7sDvkBEFthzk345FWuuSjLpr3MWe1VdEhpEBx3k61MkkxUIjv6yqV-LRnQaQX7Ft0AzoY5YtBvEBtbXttxYuaHiaKTu2algE_XXSvfqNoflPllcmzCqm6TOonymWWF02agZG9Gr6spdOV9
+  0aqWtqlygifBBge9T2SJYWEagTwKunVyqBwuPAMjcyAlxgygyjdO1_AdY63Hijxk8C68d6jFjb5hqZZ5Ty_r_2f4-PptCcPCaxpyHaeyDgVFo3DM6k1i5jyUSVTCcsJRlrrW2sFnXkcAnAkMfWZ0kgiqdOUonE3Bk6cbZIRfYsUBobMBrBC6TVhOZFugOmtZJZthgsWa8BZVmxXRWjzFvJZKX29dMGoNtbuxyJO7_TkBzY2wCfqCOvtuZpsb6lq20sZ2SF2ERTw03Pjbpnufrs2QUa--R9zo4gEb_DOFJlaPCH7_deXj84tSGkN53qgGdUJv8_EbdLnFqna0wsfNY90XNZ2Mfz-uV4WaD-CfOoRR4G3QxoymfHOYOeW1mVqLE-QkINO1iHjzOlGR2J05HCmcTycA-1QLbe-88LuhrLymhFtrOIk1QBwvufE33MvJQtqJWlObhQlg8EAQ3WJzRuB-g9FK97juB6VQGZBaUbjPBB0gvjdl0vpQl_ABoOVBarHEvkE7yLSE7WClgxd-ylR_uITvMRrfqTzlyIIb-AGt0Kf2yhFYS4aw41JPtlPRmBDa3l0_kIsG4Y-jjeJjZyO-gaUxDvIJ1Gq4LpG16hShDqIi6t8pvCybr1HsXJpS_iYGMc5Kz5S3D_mXpzWmBvudEU8Vv_ulDlho_zcmMN8XX713o_szsmrsYJ00TuNFNOkaRQRr0xPA-7FYmmLLQ6IZKDMsEHPoODFkpo-5AXpOAqmQmyou3hCYrgsTTobiZZgFrfs
+  0aqWtxUkM_VesaoQfS3foTk5mfn552Baq_kZSj6z9yOE0lGpVIGHCdjOyOdOYXYyovGnolppoQ2p4N3Tju6lYgYdYR6G47jp0uJnpNxTmzfoYVUOa4KGsyJtmvb7YR3G07xttzZrkolkwblfZRbTQpn0vqnU9JnUu8lUe4gMkBhKkM-KDM-hmM21e737v40wN_HCkj35k7k-evnsCMRRz7kQdMtRIkL2VKDbv4rNNhXsCx4s9ali9qOse94k5m74ZzMt1KGUVvsQDSZIvSWMpEL1OmMWOkM4ZHWP5BRTUKGQkSkIwHhIuSkRkKGYZ-sRmM1RKDBw2l2v4gbnp8xG2QI1vgUKO0zGNfyK5Gof0uHYq0sfON3THyFJYnixd9SonVoXYqql0fYYY0vIblK-_TyNfAZu71tpvLICSsMpDKhG0aEp0US3ZdLZwW32aDBh5p7QbzF3QvmQGmm8IrF8NmeWkOJNcfs2V49M1tFBgpdOV6
+
+
+
+
+  _bee=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; _f77=6f8352db-3d3b-4d22-840b-a7ea88876cc2; _a42=4f526040-7d9d-4151-bcec-b86be9d48bf9; api_uid=CmlqNWRGQQUDawBThno0Ag==; _nano_fp=XpEJX5Xxnpmjn0d8nC_gtoIgd1lWrNnWYuYin1UJ; rckk=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; ru1k=6f8352db-3d3b-4d22-840b-a7ea88876cc2; ru2k=4f526040-7d9d-4151-bcec-b86be9d48bf9; SUB_PASS_ID=eyJ0Ijoiblh0Zk1KYWE2MHVEdGV5M3E4b1R0U0swbHBLZ1JCNERscUozQ3VNN2k1ZklaYmpPWnJ2T3dBMC9PbEVaOGIwaSIsInYiOjEsInMiOjEwMDAwLCJ1Ijo5MDQ2ODAyNDAxMzI5fQ==
+  _bee=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; _f77=6f8352db-3d3b-4d22-840b-a7ea88876cc2; _a42=4f526040-7d9d-4151-bcec-b86be9d48bf9; api_uid=CmlqNWRGQQUDawBThno0Ag==; _nano_fp=XpEJX5Xxnpmjn0d8nC_gtoIgd1lWrNnWYuYin1UJ; rckk=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; ru1k=6f8352db-3d3b-4d22-840b-a7ea88876cc2; ru2k=4f526040-7d9d-4151-bcec-b86be9d48bf9; SUB_PASS_ID=eyJ0Ijoiblh0Zk1KYWE2MHVEdGV5M3E4b1R0U0swbHBLZ1JCNERscUozQ3VNN2k1ZklaYmpPWnJ2T3dBMC9PbEVaOGIwaSIsInYiOjEsInMiOjEwMDAwLCJ1Ijo5MDQ2ODAyNDAxMzI5fQ==
+  _bee=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; _f77=6f8352db-3d3b-4d22-840b-a7ea88876cc2; _a42=4f526040-7d9d-4151-bcec-b86be9d48bf9; api_uid=CmlqNWRGQQUDawBThno0Ag==; _nano_fp=XpEJX5Xxnpmjn0d8nC_gtoIgd1lWrNnWYuYin1UJ; rckk=Raljnq0b6aKyFua6R5gwQ9p8vDJQr42l; ru1k=6f8352db-3d3b-4d22-840b-a7ea88876cc2; ru2k=4f526040-7d9d-4151-bcec-b86be9d48bf9; SUB_PASS_ID=eyJ0Ijoiblh0Zk1KYWE2MHVEdGV5M3E4b1R0U0swbHBLZ1JCNERscUozQ3VNN2k1ZklaYmpPWnJ2T3dBMC9PbEVaOGIwaSIsInYiOjEsInMiOjEwMDAwLCJ1Ijo5MDQ2ODAyNDAxMzI5fQ==
